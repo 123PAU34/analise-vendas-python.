@@ -47,3 +47,7 @@ A base é fictícia, o histórico é curto e os resultados não representam tend
 3. Execute as células em ordem.
 4. Consulte as métricas, os gráficos e o dashboard.
 
+<img width="1220" height="398" alt="image" src="https://github.com/user-attachments/assets/45fa584c-5cb5-4b86-9fe7-6a03cba611f8" />
+
+<img width="1220" height="398" alt="image" src="https://github.com/user-attachments/assets/2de619ff-44a2-4874-9c68-c23589bc715c" />
+
