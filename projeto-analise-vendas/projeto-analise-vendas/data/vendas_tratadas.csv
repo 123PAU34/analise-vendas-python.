@@ -1,0 +1,1001 @@
+id_venda,data,produto,quantidade,regiao,canal,pagamento,tipo_cliente,categoria,preco_unitario,desconto_pct,faturamento
+1,2026-09-15,Webcam,7,Norte,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.15,1487.5
+2,2026-09-08,Monitor,6,Sudeste,Loja física,Cartão de crédito,Novo,Eletrônicos,1200.0,0.0,7200.0
+3,2026-04-05,Headset,4,Centro-Oeste,Site,Cartão de crédito,Recorrente,Acessórios,180.0,0.05,684.0
+4,2025-12-22,Impressora,8,Norte,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.15,6120.0
+5,2025-11-20,Webcam,6,Sul,Site,Cartão de crédito,Novo,Acessórios,250.0,0.05,1425.0
+6,2025-05-13,Mesa,4,Sul,Loja física,Cartão de crédito,Recorrente,Móveis,650.0,0.1,2340.0
+7,2025-05-07,Teclado,2,Sul,Marketplace,Pix,Recorrente,Acessórios,150.0,0.0,300.0
+8,2025-04-16,Webcam,4,Sul,Site,Pix,Novo,Acessórios,250.0,0.0,1000.0
+9,2026-08-27,Headset,5,Nordeste,Loja física,Pix,Novo,Acessórios,180.0,0.05,855.0
+10,2026-01-13,Impressora,5,Sudeste,Site,Cartão de débito,Novo,Escritório,900.0,0.0,4500.0
+11,2025-02-20,Monitor,5,Sudeste,Loja física,Boleto,Novo,Eletrônicos,1200.0,0.15,5100.0
+12,2025-01-29,Headset,7,Nordeste,Loja física,Cartão de crédito,Novo,Acessórios,180.0,0.0,1260.0
+13,2026-04-07,Headset,7,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Acessórios,180.0,0.2,1008.0
+14,2025-10-23,Teclado,1,Centro-Oeste,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.2,120.0
+15,2025-10-24,Cadeira,7,Sul,Site,Pix,Recorrente,Móveis,750.0,0.0,5250.0
+16,2026-02-11,Impressora,8,Norte,Site,Cartão de débito,Recorrente,Escritório,900.0,0.0,7200.0
+17,2026-09-05,Mouse,2,Centro-Oeste,Loja física,Pix,Recorrente,Acessórios,80.0,0.15,136.0
+18,2026-02-09,Headset,6,Norte,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.2,864.0
+19,2025-12-12,Cadeira,6,Sudeste,Loja física,Cartão de crédito,Novo,Móveis,750.0,0.05,4275.0
+20,2026-09-14,Mouse,1,Norte,Loja física,Boleto,Recorrente,Acessórios,80.0,0.0,80.0
+21,2026-02-24,Impressora,7,Sudeste,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.05,5985.0
+22,2025-07-01,Notebook,8,Nordeste,Loja física,Pix,Novo,Eletrônicos,3500.0,0.1,25200.0
+23,2025-01-01,Mesa,4,Nordeste,Loja física,Cartão de crédito,Novo,Móveis,650.0,0.0,2600.0
+24,2026-07-21,Cadeira,1,Sul,Site,Boleto,Recorrente,Móveis,750.0,0.1,675.0
+25,2026-01-06,Tablet,8,Centro-Oeste,Marketplace,Boleto,Recorrente,Eletrônicos,1800.0,0.0,14400.0
+26,2026-03-07,Notebook,4,Sul,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+27,2025-11-05,Mesa,8,Sudeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,5200.0
+28,2025-05-17,Teclado,4,Sul,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,600.0
+29,2025-07-21,Webcam,3,Norte,Marketplace,Boleto,Novo,Acessórios,250.0,0.0,750.0
+30,2026-03-12,Monitor,8,Sudeste,Site,Cartão de crédito,Novo,Eletrônicos,1200.0,0.05,9120.0
+31,2025-11-09,Tablet,6,Nordeste,Loja física,Cartão de crédito,Novo,Eletrônicos,1800.0,0.0,10800.0
+32,2025-04-27,Teclado,5,Centro-Oeste,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.0,750.0
+33,2026-07-29,Impressora,7,Sudeste,Site,Boleto,Recorrente,Escritório,900.0,0.0,6300.0
+34,2025-09-01,Teclado,4,Sudeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,150.0,0.2,480.0
+35,2026-06-21,Webcam,3,Norte,Loja física,Boleto,Recorrente,Acessórios,250.0,0.05,712.5
+36,2026-08-25,Impressora,8,Centro-Oeste,Loja física,Pix,Novo,Escritório,900.0,0.05,6840.0
+37,2025-03-16,Tablet,6,Nordeste,Marketplace,Pix,Recorrente,Eletrônicos,1800.0,0.05,10260.0
+38,2026-01-21,Webcam,5,Sudeste,Marketplace,Cartão de crédito,Novo,Acessórios,250.0,0.2,1000.0
+39,2025-07-29,Mouse,4,Sudeste,Marketplace,Boleto,Novo,Acessórios,80.0,0.0,320.0
+40,2026-04-20,Monitor,8,Norte,Marketplace,Cartão de crédito,Novo,Eletrônicos,1200.0,0.1,8640.0
+41,2026-02-22,Tablet,8,Sul,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.1,12960.0
+42,2025-12-13,Mouse,4,Nordeste,Site,Boleto,Recorrente,Acessórios,80.0,0.05,304.0
+43,2026-06-13,Mesa,1,Centro-Oeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,650.0
+44,2025-06-28,Tablet,1,Sudeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,1620.0
+45,2025-07-01,Mesa,6,Sudeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,3900.0
+46,2025-01-25,Impressora,5,Nordeste,Site,Cartão de crédito,Novo,Escritório,900.0,0.05,4275.0
+47,2025-06-29,Mouse,4,Sul,Loja física,Cartão de débito,Novo,Acessórios,80.0,0.1,288.0
+48,2026-05-16,Monitor,6,Sudeste,Marketplace,Cartão de débito,Novo,Eletrônicos,1200.0,0.0,7200.0
+49,2025-06-10,Webcam,6,Nordeste,Site,Pix,Recorrente,Acessórios,250.0,0.1,1350.0
+50,2025-06-26,Headset,2,Norte,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.0,360.0
+51,2025-10-12,Teclado,8,Sul,Loja física,Boleto,Novo,Acessórios,150.0,0.1,1080.0
+52,2025-03-04,Notebook,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,23275.0
+53,2025-06-05,Monitor,8,Sudeste,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.0,9600.0
+54,2026-04-14,Mouse,1,Nordeste,Loja física,Pix,Novo,Acessórios,80.0,0.0,80.0
+55,2025-02-18,Headset,5,Norte,Site,Pix,Recorrente,Acessórios,180.0,0.2,720.0
+56,2025-03-25,Monitor,8,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,9600.0
+57,2025-12-27,Mouse,4,Nordeste,Loja física,Pix,Recorrente,Acessórios,80.0,0.0,320.0
+58,2025-05-28,Cadeira,6,Nordeste,Site,Boleto,Novo,Móveis,750.0,0.0,4500.0
+59,2026-09-22,Cadeira,4,Centro-Oeste,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.05,2850.0
+60,2025-12-08,Mesa,2,Norte,Loja física,Boleto,Novo,Móveis,650.0,0.05,1235.0
+61,2026-04-21,Monitor,5,Norte,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+62,2025-03-04,Cadeira,6,Sul,Marketplace,Cartão de débito,Recorrente,Móveis,750.0,0.0,4500.0
+63,2025-12-26,Mouse,4,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,80.0,0.0,320.0
+64,2026-07-15,Mesa,1,Centro-Oeste,Site,Pix,Recorrente,Móveis,650.0,0.0,650.0
+65,2025-11-23,Mouse,7,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,80.0,0.05,532.0
+66,2025-05-21,Mesa,2,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.1,1170.0
+67,2025-08-03,Monitor,5,Norte,Site,Boleto,Novo,Eletrônicos,1200.0,0.0,6000.0
+68,2026-03-11,Headset,2,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,180.0,0.0,360.0
+69,2025-11-14,Webcam,1,Sul,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.0,250.0
+70,2025-02-01,Tablet,5,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.2,7200.0
+71,2025-10-12,Headset,2,Nordeste,Marketplace,Cartão de débito,Recorrente,Acessórios,180.0,0.2,288.0
+72,2025-11-01,Impressora,3,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.1,2430.0
+73,2026-03-05,Mouse,1,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.0,80.0
+74,2026-04-22,Impressora,1,Norte,Loja física,Pix,Recorrente,Escritório,900.0,0.0,900.0
+75,2025-10-13,Headset,1,Sudeste,Marketplace,Boleto,Novo,Acessórios,180.0,0.0,180.0
+76,2025-05-24,Mesa,3,Sudeste,Marketplace,Boleto,Recorrente,Móveis,650.0,0.0,1950.0
+77,2026-02-28,Tablet,3,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.05,5130.0
+78,2025-01-19,Tablet,4,Centro-Oeste,Site,Cartão de crédito,Novo,Eletrônicos,1800.0,0.1,6480.0
+79,2025-01-18,Notebook,6,Sudeste,Site,Pix,Novo,Eletrônicos,3500.0,0.15,17850.0
+80,2026-08-13,Tablet,7,Nordeste,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.1,11340.0
+81,2026-01-06,Webcam,2,Norte,Site,Pix,Recorrente,Acessórios,250.0,0.0,500.0
+82,2025-06-24,Tablet,4,Sul,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,6480.0
+83,2025-07-13,Headset,2,Centro-Oeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,360.0
+84,2026-05-17,Notebook,7,Norte,Marketplace,Pix,Novo,Eletrônicos,3500.0,0.0,24500.0
+85,2025-04-23,Headset,6,Sul,Site,Cartão de débito,Recorrente,Acessórios,180.0,0.1,972.0
+86,2025-04-24,Headset,3,Sul,Loja física,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,540.0
+87,2025-08-10,Teclado,6,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.05,855.0
+88,2025-09-21,Notebook,3,Sudeste,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.0,10500.0
+89,2025-02-24,Headset,7,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.1,1134.0
+90,2026-04-03,Teclado,6,Norte,Site,Pix,Recorrente,Acessórios,150.0,0.1,810.0
+91,2025-06-11,Teclado,4,Norte,Marketplace,Cartão de débito,Recorrente,Acessórios,150.0,0.0,600.0
+92,2026-01-15,Notebook,5,Centro-Oeste,Site,Boleto,Novo,Eletrônicos,3500.0,0.1,15750.0
+93,2025-03-28,Impressora,4,Sudeste,Loja física,Boleto,Recorrente,Escritório,900.0,0.0,3600.0
+94,2025-02-24,Mesa,2,Sul,Site,Cartão de débito,Recorrente,Móveis,650.0,0.05,1235.0
+95,2026-04-21,Webcam,4,Nordeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,250.0,0.1,900.0
+96,2025-06-27,Mesa,7,Centro-Oeste,Site,Pix,Novo,Móveis,650.0,0.1,4095.0
+97,2026-01-26,Tablet,1,Não informado,Marketplace,Boleto,Recorrente,Eletrônicos,1800.0,0.2,1440.0
+98,2025-12-15,Webcam,2,Centro-Oeste,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.0,500.0
+99,2025-01-08,Tablet,6,Centro-Oeste,Site,Pix,Recorrente,Eletrônicos,1800.0,0.1,9720.0
+100,2025-11-09,Headset,2,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,180.0,0.05,342.0
+101,2026-03-19,Mouse,5,Centro-Oeste,Marketplace,Boleto,Recorrente,Acessórios,80.0,0.15,340.0
+102,2025-11-24,Notebook,3,Nordeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,10500.0
+103,2025-02-23,Webcam,6,Sudeste,Marketplace,Pix,Recorrente,Acessórios,250.0,0.1,1350.0
+104,2025-08-27,Webcam,8,Sul,Site,Cartão de crédito,Recorrente,Acessórios,250.0,0.05,1900.0
+105,2025-08-17,Headset,2,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,360.0
+106,2026-08-02,Impressora,6,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.05,5130.0
+107,2025-02-20,Teclado,6,Centro-Oeste,Marketplace,Pix,Recorrente,Acessórios,150.0,0.0,900.0
+108,2026-09-01,Headset,6,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,180.0,0.05,1026.0
+109,2026-08-27,Cadeira,3,Norte,Loja física,Cartão de crédito,Novo,Móveis,750.0,0.15,1912.5
+110,2025-09-21,Teclado,8,Norte,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.05,1140.0
+111,2026-02-22,Notebook,7,Nordeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,23275.0
+112,2025-04-06,Teclado,4,Norte,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.05,570.0
+113,2025-03-29,Impressora,6,Centro-Oeste,Marketplace,Pix,Recorrente,Escritório,900.0,0.0,5400.0
+114,2025-03-19,Teclado,1,Centro-Oeste,Loja física,Pix,Novo,Acessórios,150.0,0.0,150.0
+115,2025-10-15,Notebook,7,Centro-Oeste,Site,Cartão de crédito,Novo,Eletrônicos,3500.0,0.05,23275.0
+116,2025-04-30,Impressora,5,Nordeste,Site,Cartão de débito,Recorrente,Escritório,900.0,0.0,4500.0
+117,2026-05-06,Mesa,3,Centro-Oeste,Marketplace,Boleto,Novo,Móveis,650.0,0.0,1950.0
+118,2026-03-28,Webcam,2,Norte,Marketplace,Boleto,Recorrente,Acessórios,250.0,0.05,475.0
+119,2026-05-15,Webcam,3,Sudeste,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.0,750.0
+120,2025-06-14,Tablet,2,Sudeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.0,3600.0
+121,2025-07-01,Mesa,3,Sul,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.05,1852.5
+122,2026-04-14,Mesa,2,Norte,Site,Cartão de débito,Novo,Móveis,650.0,0.0,1300.0
+123,2025-01-07,Teclado,6,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.15,765.0
+124,2025-11-26,Webcam,4,Sudeste,Loja física,Pix,Novo,Acessórios,250.0,0.15,850.0
+125,2025-05-31,Notebook,2,Norte,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.1,6300.0
+126,2025-03-26,Monitor,8,Sudeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.0,9600.0
+127,2025-05-27,Monitor,2,Centro-Oeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.1,2160.0
+128,2026-09-16,Impressora,1,Sudeste,Site,Cartão de débito,Recorrente,Escritório,900.0,0.1,810.0
+129,2026-01-16,Webcam,2,Sul,Site,Cartão de débito,Recorrente,Acessórios,250.0,0.1,450.0
+130,2026-07-02,Webcam,1,Sul,Loja física,Pix,Novo,Acessórios,250.0,0.0,250.0
+131,2025-10-12,Monitor,5,Sudeste,Marketplace,Boleto,Novo,Eletrônicos,1200.0,0.05,5700.0
+132,2025-03-23,Webcam,6,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,250.0,0.1,1350.0
+133,2026-05-29,Teclado,1,Norte,Site,Boleto,Recorrente,Acessórios,150.0,0.05,142.5
+134,2026-06-07,Cadeira,4,Norte,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.05,2850.0
+135,2026-01-21,Mouse,7,Sudeste,Loja física,Boleto,Recorrente,Acessórios,80.0,0.05,532.0
+136,2026-04-16,Mesa,6,Norte,Loja física,Pix,Recorrente,Móveis,650.0,0.05,3705.0
+137,2025-04-29,Tablet,1,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.0,1800.0
+138,2026-01-31,Impressora,6,Sul,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.05,5130.0
+139,2026-06-16,Cadeira,8,Centro-Oeste,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.0,6000.0
+140,2025-09-18,Monitor,6,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+141,2025-09-13,Mesa,6,Centro-Oeste,Site,Cartão de débito,Novo,Móveis,650.0,0.0,3900.0
+142,2025-08-14,Webcam,5,Norte,Loja física,Boleto,Novo,Acessórios,250.0,0.05,1187.5
+143,2025-02-22,Tablet,4,Sudeste,Site,Pix,Novo,Eletrônicos,1800.0,0.0,7200.0
+144,2026-05-15,Webcam,3,Centro-Oeste,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.1,675.0
+145,2026-05-21,Notebook,3,Sudeste,Loja física,Cartão de crédito,Novo,Eletrônicos,3500.0,0.1,9450.0
+146,2025-12-30,Notebook,1,Sudeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,3500.0
+147,2025-10-07,Tablet,6,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.0,10800.0
+148,2026-08-16,Tablet,1,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.0,1800.0
+149,2025-06-07,Monitor,5,Sul,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.15,5100.0
+150,2026-09-24,Tablet,5,Norte,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.05,8550.0
+151,2025-02-28,Teclado,2,Sul,Site,Cartão de crédito,Novo,Acessórios,150.0,0.05,285.0
+152,2025-05-08,Webcam,8,Norte,Loja física,Pix,Novo,Acessórios,250.0,0.0,2000.0
+153,2025-04-25,Cadeira,5,Sudeste,Marketplace,Boleto,Recorrente,Móveis,750.0,0.05,3562.5
+154,2025-07-28,Headset,2,Centro-Oeste,Loja física,Cartão de débito,Novo,Acessórios,180.0,0.15,306.0
+155,2026-06-10,Tablet,4,Centro-Oeste,Site,Cartão de débito,Novo,Eletrônicos,1800.0,0.1,6480.0
+156,2026-06-05,Impressora,1,Nordeste,Site,Cartão de débito,Recorrente,Escritório,900.0,0.05,855.0
+157,2026-07-06,Notebook,7,Sul,Site,Boleto,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+158,2025-08-25,Teclado,4,Sul,Site,Cartão de crédito,Novo,Acessórios,150.0,0.0,600.0
+159,2025-10-08,Mesa,5,Sul,Loja física,Boleto,Recorrente,Móveis,650.0,0.0,3250.0
+160,2025-12-25,Headset,4,Sudeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.0,720.0
+161,2025-07-20,Cadeira,4,Sul,Loja física,Pix,Recorrente,Móveis,750.0,0.0,3000.0
+162,2025-10-05,Headset,8,Centro-Oeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.0,1440.0
+163,2025-08-23,Tablet,8,Sudeste,Site,Cartão de débito,Novo,Eletrônicos,1800.0,0.0,14400.0
+164,2026-05-09,Monitor,8,Norte,Loja física,Cartão de crédito,Novo,Eletrônicos,1200.0,0.15,8160.0
+165,2025-01-04,Notebook,4,Sul,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+166,2026-03-18,Notebook,5,Sul,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.1,15750.0
+167,2025-01-29,Mesa,7,Norte,Marketplace,Cartão de débito,Recorrente,Móveis,650.0,0.1,4095.0
+168,2025-04-19,Monitor,6,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,7200.0
+169,2026-09-02,Webcam,4,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.1,900.0
+170,2025-03-16,Mouse,2,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.0,160.0
+171,2025-05-26,Teclado,5,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Acessórios,150.0,0.05,712.5
+172,2025-05-08,Notebook,4,Norte,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+173,2025-02-11,Impressora,7,Nordeste,Loja física,Cartão de débito,Novo,Escritório,900.0,0.2,5040.0
+174,2025-12-22,Notebook,6,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,21000.0
+175,2025-02-10,Headset,8,Sul,Site,Cartão de débito,Novo,Acessórios,180.0,0.0,1440.0
+176,2025-02-03,Notebook,5,Sudeste,Site,Cartão de débito,Novo,Eletrônicos,3500.0,0.15,14875.0
+177,2025-01-17,Notebook,3,Sudeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,10500.0
+178,2025-06-02,Mouse,6,Norte,Loja física,Cartão de débito,Novo,Acessórios,80.0,0.1,432.0
+179,2026-01-13,Mouse,2,Centro-Oeste,Marketplace,Boleto,Novo,Acessórios,80.0,0.1,144.0
+180,2026-08-11,Cadeira,4,Nordeste,Loja física,Boleto,Novo,Móveis,750.0,0.1,2700.0
+181,2026-08-22,Webcam,7,Sudeste,Site,Boleto,Recorrente,Acessórios,250.0,0.2,1400.0
+182,2026-09-21,Impressora,3,Sul,Site,Pix,Recorrente,Escritório,900.0,0.2,2160.0
+183,2025-12-08,Notebook,7,Sul,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+184,2025-01-27,Notebook,3,Centro-Oeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.1,9450.0
+185,2025-10-14,Teclado,5,Sudeste,Loja física,Pix,Recorrente,Acessórios,150.0,0.05,712.5
+186,2025-06-17,Mouse,3,Norte,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.05,228.0
+187,2026-09-02,Impressora,2,Sul,Marketplace,Pix,Novo,Escritório,900.0,0.0,1800.0
+188,2025-09-25,Mesa,2,Centro-Oeste,Marketplace,Pix,Recorrente,Móveis,650.0,0.1,1170.0
+189,2026-03-31,Cadeira,1,Sudeste,Loja física,Boleto,Novo,Móveis,750.0,0.2,600.0
+190,2026-02-05,Webcam,2,Sudeste,Loja física,Boleto,Recorrente,Acessórios,250.0,0.15,425.0
+191,2026-04-21,Monitor,6,Sudeste,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+192,2026-09-26,Webcam,3,Sudeste,Site,Boleto,Recorrente,Acessórios,250.0,0.0,750.0
+193,2026-07-12,Headset,2,Sudeste,Marketplace,Pix,Novo,Acessórios,180.0,0.0,360.0
+194,2026-07-30,Notebook,5,Sul,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.1,15750.0
+195,2025-05-10,Cadeira,7,Centro-Oeste,Site,Boleto,Recorrente,Móveis,750.0,0.1,4725.0
+196,2025-12-29,Headset,8,Sudeste,Site,Boleto,Recorrente,Acessórios,180.0,0.05,1368.0
+197,2025-10-19,Impressora,7,Nordeste,Site,Boleto,Recorrente,Escritório,900.0,0.0,6300.0
+198,2026-01-06,Monitor,1,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.05,1140.0
+199,2025-01-29,Mouse,7,Centro-Oeste,Loja física,Pix,Novo,Acessórios,80.0,0.05,532.0
+200,2025-05-29,Cadeira,3,Norte,Site,Cartão de débito,Recorrente,Móveis,750.0,0.15,1912.5
+201,2025-10-23,Cadeira,1,Norte,Loja física,Boleto,Recorrente,Móveis,750.0,0.05,712.5
+202,2025-01-11,Notebook,3,Norte,Site,Pix,Recorrente,Eletrônicos,3500.0,0.0,10500.0
+203,2026-05-27,Tablet,5,Nordeste,Marketplace,Cartão de crédito,Novo,Eletrônicos,1800.0,0.05,8550.0
+204,2025-04-23,Cadeira,1,Norte,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,750.0
+205,2025-07-06,Teclado,4,Sul,Marketplace,Boleto,Novo,Acessórios,150.0,0.2,480.0
+206,2025-08-15,Monitor,6,Sudeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.0,7200.0
+207,2025-11-06,Monitor,6,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+208,2025-04-08,Teclado,3,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Acessórios,150.0,0.0,450.0
+209,2025-02-24,Mesa,7,Centro-Oeste,Loja física,Pix,Novo,Móveis,650.0,0.1,4095.0
+210,2026-09-15,Teclado,8,Sudeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.1,1080.0
+211,2026-02-10,Teclado,8,Nordeste,Site,Boleto,Novo,Acessórios,150.0,0.1,1080.0
+212,2025-03-10,Monitor,4,Norte,Loja física,Pix,Novo,Eletrônicos,1200.0,0.0,4800.0
+213,2025-11-08,Webcam,1,Norte,Site,Pix,Recorrente,Acessórios,250.0,0.0,250.0
+214,2025-10-16,Monitor,4,Sul,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.0,4800.0
+215,2026-07-02,Tablet,4,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,6480.0
+216,2025-05-28,Notebook,7,Norte,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+217,2026-04-12,Headset,8,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,180.0,0.05,1368.0
+218,2025-09-01,Webcam,1,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,250.0,0.15,212.5
+219,2026-05-06,Mouse,5,Sul,Loja física,Cartão de crédito,Novo,Acessórios,80.0,0.15,340.0
+220,2026-05-22,Headset,7,Sudeste,Site,Boleto,Recorrente,Acessórios,180.0,0.05,1197.0
+221,2025-12-31,Notebook,4,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+222,2026-04-27,Tablet,4,Sul,Site,Pix,Novo,Eletrônicos,1800.0,0.0,7200.0
+223,2025-07-20,Tablet,5,Sul,Loja física,Cartão de crédito,Novo,Eletrônicos,1800.0,0.1,8100.0
+224,2025-06-03,Mouse,4,Norte,Site,Pix,Recorrente,Acessórios,80.0,0.1,288.0
+225,2026-03-26,Webcam,4,Norte,Loja física,Boleto,Novo,Acessórios,250.0,0.0,1000.0
+226,2026-05-16,Mesa,4,Centro-Oeste,Loja física,Pix,Novo,Móveis,650.0,0.05,2470.0
+227,2025-03-14,Teclado,6,Sudeste,Marketplace,Cartão de débito,Novo,Acessórios,150.0,0.1,810.0
+228,2025-10-23,Webcam,7,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,250.0,0.15,1487.5
+229,2025-01-17,Mesa,2,Norte,Loja física,Boleto,Recorrente,Móveis,650.0,0.0,1300.0
+230,2025-08-05,Tablet,7,Nordeste,Loja física,Pix,Novo,Eletrônicos,1800.0,0.05,11970.0
+231,2025-03-02,Monitor,5,Sul,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+232,2026-09-08,Notebook,4,Sul,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+233,2025-02-11,Mouse,7,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.15,476.0
+234,2025-01-25,Notebook,6,Nordeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.1,18900.0
+235,2025-02-08,Impressora,8,Centro-Oeste,Site,Boleto,Recorrente,Escritório,900.0,0.1,6480.0
+236,2025-05-11,Impressora,5,Norte,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.0,4500.0
+237,2026-05-13,Webcam,3,Norte,Site,Cartão de crédito,Recorrente,Acessórios,250.0,0.1,675.0
+238,2025-08-17,Tablet,7,Sul,Site,Boleto,Novo,Eletrônicos,1800.0,0.05,11970.0
+239,2025-04-18,Tablet,3,Norte,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.0,5400.0
+240,2025-06-21,Teclado,4,Norte,Marketplace,Cartão de crédito,Recorrente,Acessórios,150.0,0.05,570.0
+241,2026-03-11,Teclado,6,Norte,Marketplace,Pix,Recorrente,Acessórios,150.0,0.0,900.0
+242,2026-04-23,Teclado,6,Sul,Marketplace,Cartão de crédito,Novo,Acessórios,150.0,0.1,810.0
+243,2025-04-12,Monitor,7,Centro-Oeste,Marketplace,Boleto,Novo,Eletrônicos,1200.0,0.05,7980.0
+244,2026-06-08,Headset,5,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,900.0
+245,2025-10-02,Cadeira,5,Norte,Site,Pix,Recorrente,Móveis,750.0,0.0,3750.0
+246,2026-09-05,Headset,6,Sul,Loja física,Cartão de débito,Novo,Acessórios,180.0,0.0,1080.0
+247,2025-02-13,Notebook,5,Centro-Oeste,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,17500.0
+248,2025-01-17,Headset,6,Centro-Oeste,Site,Cartão de crédito,Novo,Acessórios,180.0,0.05,1026.0
+249,2025-11-26,Monitor,7,Centro-Oeste,Site,Pix,Recorrente,Eletrônicos,1200.0,0.1,7560.0
+250,2026-07-23,Notebook,2,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,7000.0
+251,2026-05-12,Headset,6,Sul,Loja física,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,1080.0
+252,2025-01-12,Monitor,3,Norte,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.05,3420.0
+253,2025-11-14,Cadeira,5,Sudeste,Marketplace,Pix,Novo,Móveis,750.0,0.1,3375.0
+254,2026-08-15,Headset,6,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,180.0,0.0,1080.0
+255,2025-08-04,Monitor,6,Sudeste,Site,Cartão de crédito,Novo,Eletrônicos,1200.0,0.0,7200.0
+256,2025-12-05,Teclado,7,Sul,Loja física,Boleto,Recorrente,Acessórios,150.0,0.05,997.5
+257,2025-03-22,Tablet,5,Sul,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.0,9000.0
+258,2026-04-30,Teclado,2,Sul,Marketplace,Cartão de débito,Recorrente,Acessórios,150.0,0.0,300.0
+259,2026-01-09,Tablet,7,Sudeste,Site,Boleto,Novo,Eletrônicos,1800.0,0.1,11340.0
+260,2025-07-19,Mouse,2,Sul,Marketplace,Pix,Recorrente,Acessórios,80.0,0.05,152.0
+261,2026-06-21,Mouse,8,Norte,Site,Cartão de débito,Novo,Acessórios,80.0,0.05,608.0
+262,2026-04-11,Mouse,7,Sul,Site,Cartão de débito,Novo,Acessórios,80.0,0.1,504.0
+263,2025-03-30,Cadeira,5,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.1,3375.0
+264,2025-09-25,Teclado,1,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,150.0
+265,2026-07-25,Tablet,5,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.0,9000.0
+266,2026-05-04,Monitor,5,Sul,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+267,2026-06-22,Notebook,2,Norte,Site,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,7000.0
+268,2025-02-16,Monitor,2,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.1,2160.0
+269,2025-10-15,Notebook,5,Sul,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.15,14875.0
+270,2025-01-16,Impressora,5,Norte,Marketplace,Boleto,Novo,Escritório,900.0,0.2,3600.0
+271,2026-02-05,Monitor,5,Sudeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.05,5700.0
+272,2025-03-27,Headset,2,Não informado,Site,Boleto,Recorrente,Acessórios,180.0,0.0,360.0
+273,2025-09-07,Headset,5,Nordeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.0,900.0
+274,2026-01-26,Webcam,5,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,250.0,0.1,1125.0
+275,2025-12-01,Teclado,8,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.05,1140.0
+276,2026-09-21,Notebook,4,Norte,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+277,2026-06-03,Notebook,1,Sudeste,Site,Boleto,Recorrente,Eletrônicos,3500.0,0.1,3150.0
+278,2025-05-17,Teclado,3,Nordeste,Marketplace,Cartão de débito,Novo,Acessórios,150.0,0.1,405.0
+279,2026-05-13,Cadeira,1,Sul,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.1,675.0
+280,2026-04-22,Webcam,4,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Acessórios,250.0,0.0,1000.0
+281,2026-08-17,Cadeira,3,Sudeste,Site,Pix,Recorrente,Móveis,750.0,0.1,2025.0
+282,2025-08-11,Cadeira,7,Sudeste,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.15,4462.5
+283,2026-01-07,Cadeira,5,Norte,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.0,3750.0
+284,2026-02-06,Teclado,4,Norte,Loja física,Boleto,Recorrente,Acessórios,150.0,0.05,570.0
+285,2026-03-19,Cadeira,8,Sudeste,Loja física,Pix,Novo,Móveis,750.0,0.0,6000.0
+286,2026-05-05,Headset,7,Nordeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.2,1008.0
+287,2026-09-07,Mouse,5,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.0,400.0
+288,2025-09-30,Impressora,2,Norte,Site,Pix,Novo,Escritório,900.0,0.05,1710.0
+289,2026-06-10,Notebook,6,Nordeste,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,21000.0
+290,2025-06-08,Notebook,4,Sul,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.1,12600.0
+291,2025-06-01,Impressora,2,Norte,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.0,1800.0
+292,2026-09-12,Teclado,4,Nordeste,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.0,600.0
+293,2025-07-07,Monitor,8,Nordeste,Loja física,Cartão de débito,Novo,Eletrônicos,1200.0,0.05,9120.0
+294,2025-04-08,Teclado,4,Centro-Oeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.15,510.0
+295,2025-05-11,Notebook,2,Centro-Oeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,7000.0
+296,2025-06-20,Notebook,8,Sul,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+297,2025-07-02,Impressora,3,Nordeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.1,2430.0
+298,2025-12-30,Cadeira,1,Nordeste,Loja física,Cartão de débito,Novo,Móveis,750.0,0.05,712.5
+299,2025-02-08,Teclado,5,Centro-Oeste,Loja física,Boleto,Novo,Acessórios,150.0,0.15,637.5
+300,2026-06-11,Tablet,4,Norte,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.0,7200.0
+301,2026-05-12,Impressora,5,Norte,Marketplace,Pix,Recorrente,Escritório,900.0,0.05,4275.0
+302,2026-05-31,Headset,6,Sudeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,1080.0
+303,2025-12-15,Notebook,2,Centro-Oeste,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.0,7000.0
+304,2026-02-01,Impressora,5,Sudeste,Marketplace,Cartão de débito,Novo,Escritório,900.0,0.1,4050.0
+305,2025-06-10,Teclado,2,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.05,285.0
+306,2025-01-16,Notebook,5,Sul,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.1,15750.0
+307,2026-05-08,Monitor,1,Nordeste,Site,Pix,Recorrente,Eletrônicos,1200.0,0.0,1200.0
+308,2026-03-02,Impressora,1,Sul,Marketplace,Boleto,Recorrente,Escritório,900.0,0.05,855.0
+309,2025-04-18,Webcam,8,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,250.0,0.05,1900.0
+310,2026-03-26,Notebook,1,Nordeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.2,2800.0
+311,2025-11-07,Teclado,8,Norte,Loja física,Boleto,Recorrente,Acessórios,150.0,0.0,1200.0
+312,2025-06-19,Mouse,1,Norte,Site,Cartão de crédito,Novo,Acessórios,80.0,0.0,80.0
+313,2026-06-30,Tablet,1,Sudeste,Site,Cartão de crédito,Novo,Eletrônicos,1800.0,0.0,1800.0
+314,2026-02-18,Mesa,1,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Móveis,650.0,0.05,617.5
+315,2025-09-08,Cadeira,2,Centro-Oeste,Marketplace,Boleto,Recorrente,Móveis,750.0,0.0,1500.0
+316,2025-05-21,Mesa,4,Norte,Site,Boleto,Recorrente,Móveis,650.0,0.15,2210.0
+317,2025-10-01,Teclado,8,Sul,Marketplace,Pix,Recorrente,Acessórios,150.0,0.0,1200.0
+318,2026-02-20,Headset,5,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.15,765.0
+319,2026-08-31,Headset,1,Sul,Site,Boleto,Novo,Acessórios,180.0,0.0,180.0
+320,2025-02-08,Mouse,2,Sul,Site,Boleto,Recorrente,Acessórios,80.0,0.1,144.0
+321,2025-01-29,Cadeira,2,Norte,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.15,1275.0
+322,2026-04-22,Webcam,2,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.0,500.0
+323,2025-11-14,Mouse,8,Norte,Site,Pix,Recorrente,Acessórios,80.0,0.2,512.0
+324,2025-09-02,Mesa,4,Sudeste,Loja física,Cartão de débito,Novo,Móveis,650.0,0.05,2470.0
+325,2025-09-29,Mouse,8,Sul,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.15,544.0
+326,2026-03-16,Mesa,5,Centro-Oeste,Loja física,Boleto,Recorrente,Móveis,650.0,0.1,2925.0
+327,2025-08-27,Notebook,4,Nordeste,Loja física,Pix,Novo,Eletrônicos,3500.0,0.0,14000.0
+328,2026-01-12,Headset,3,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.0,540.0
+329,2025-09-23,Notebook,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+330,2025-12-25,Tablet,2,Sul,Site,Pix,Recorrente,Eletrônicos,1800.0,0.0,3600.0
+331,2025-12-06,Cadeira,8,Norte,Site,Boleto,Recorrente,Móveis,750.0,0.0,6000.0
+332,2026-01-24,Webcam,3,Sul,Site,Cartão de débito,Novo,Acessórios,250.0,0.0,750.0
+333,2026-07-31,Mesa,6,Nordeste,Loja física,Cartão de crédito,Novo,Móveis,650.0,0.05,3705.0
+334,2025-01-03,Webcam,8,Sudeste,Loja física,Cartão de débito,Novo,Acessórios,250.0,0.1,1800.0
+335,2026-03-05,Mesa,1,Sudeste,Loja física,Cartão de crédito,Recorrente,Móveis,650.0,0.0,650.0
+336,2025-05-22,Teclado,7,Nordeste,Loja física,Boleto,Novo,Acessórios,150.0,0.0,1050.0
+337,2026-01-11,Mouse,1,Centro-Oeste,Marketplace,Cartão de débito,Novo,Acessórios,80.0,0.05,76.0
+338,2025-11-20,Tablet,4,Centro-Oeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.0,7200.0
+339,2025-05-26,Headset,7,Sudeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,1260.0
+340,2025-10-20,Mesa,8,Sudeste,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.0,5200.0
+341,2026-03-08,Webcam,5,Norte,Loja física,Boleto,Novo,Acessórios,250.0,0.15,1062.5
+342,2026-08-08,Tablet,3,Centro-Oeste,Site,Boleto,Novo,Eletrônicos,1800.0,0.1,4860.0
+343,2026-02-03,Monitor,5,Nordeste,Site,Pix,Novo,Eletrônicos,1200.0,0.0,6000.0
+344,2025-12-10,Monitor,8,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.1,8640.0
+345,2025-05-20,Notebook,4,Norte,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+346,2025-07-06,Headset,1,Sudeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.1,162.0
+347,2025-03-02,Teclado,7,Sudeste,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.1,945.0
+348,2026-01-15,Webcam,5,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.05,1187.5
+349,2026-03-16,Mouse,8,Nordeste,Marketplace,Cartão de crédito,Novo,Acessórios,80.0,0.0,640.0
+350,2025-11-15,Mouse,5,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,80.0,0.0,400.0
+351,2025-10-29,Webcam,8,Sul,Site,Boleto,Recorrente,Acessórios,250.0,0.05,1900.0
+352,2025-12-10,Cadeira,1,Sudeste,Site,Boleto,Recorrente,Móveis,750.0,0.15,637.5
+353,2025-01-11,Teclado,7,Sul,Site,Boleto,Novo,Acessórios,150.0,0.05,997.5
+354,2025-03-03,Tablet,3,Norte,Site,Cartão de débito,Novo,Eletrônicos,1800.0,0.1,4860.0
+355,2025-08-14,Mesa,1,Norte,Site,Cartão de crédito,Recorrente,Móveis,650.0,0.2,520.0
+356,2025-06-02,Cadeira,5,Sudeste,Site,Cartão de débito,Novo,Móveis,750.0,0.0,3750.0
+357,2026-07-18,Mesa,3,Centro-Oeste,Loja física,Boleto,Novo,Móveis,650.0,0.1,1755.0
+358,2026-07-25,Mesa,8,Sul,Site,Cartão de crédito,Novo,Móveis,650.0,0.1,4680.0
+359,2026-08-07,Cadeira,3,Nordeste,Site,Cartão de débito,Novo,Móveis,750.0,0.2,1800.0
+360,2026-07-29,Notebook,8,Não informado,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.2,22400.0
+361,2025-11-06,Monitor,1,Nordeste,Site,Pix,Recorrente,Eletrônicos,1200.0,0.1,1080.0
+362,2025-08-31,Mesa,5,Sudeste,Site,Cartão de débito,Novo,Móveis,650.0,0.0,3250.0
+363,2026-05-08,Cadeira,4,Centro-Oeste,Loja física,Boleto,Recorrente,Móveis,750.0,0.1,2700.0
+364,2026-01-01,Cadeira,5,Centro-Oeste,Site,Cartão de débito,Recorrente,Móveis,750.0,0.0,3750.0
+365,2025-11-26,Impressora,8,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.1,6480.0
+366,2025-04-17,Notebook,2,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.15,5950.0
+367,2025-08-14,Headset,7,Não informado,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,1260.0
+368,2025-08-06,Impressora,6,Norte,Site,Cartão de crédito,Novo,Escritório,900.0,0.05,5130.0
+369,2026-05-21,Impressora,4,Sul,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.05,3420.0
+370,2025-09-16,Webcam,3,Nordeste,Loja física,Pix,Recorrente,Acessórios,250.0,0.05,712.5
+371,2026-06-01,Monitor,4,Sudeste,Marketplace,Boleto,Recorrente,Eletrônicos,1200.0,0.0,4800.0
+372,2025-02-23,Cadeira,7,Sudeste,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.1,4725.0
+373,2025-02-16,Monitor,3,Norte,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.15,3060.0
+374,2026-06-05,Teclado,7,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.15,892.5
+375,2025-04-09,Webcam,3,Norte,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.0,750.0
+376,2025-01-20,Headset,4,Sul,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.15,612.0
+377,2026-07-27,Monitor,3,Nordeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.1,3240.0
+378,2026-05-05,Mouse,3,Sul,Site,Boleto,Recorrente,Acessórios,80.0,0.0,240.0
+379,2026-02-23,Mesa,2,Centro-Oeste,Site,Pix,Novo,Móveis,650.0,0.0,1300.0
+380,2025-03-03,Teclado,5,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,150.0,0.0,750.0
+381,2025-05-25,Notebook,5,Centro-Oeste,Site,Pix,Novo,Eletrônicos,3500.0,0.15,14875.0
+382,2025-08-04,Headset,6,Sul,Loja física,Cartão de crédito,Novo,Acessórios,180.0,0.05,1026.0
+383,2025-01-03,Teclado,6,Sudeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.1,810.0
+384,2025-06-09,Mesa,8,Nordeste,Site,Cartão de crédito,Novo,Móveis,650.0,0.0,5200.0
+385,2025-04-30,Webcam,8,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,250.0,0.1,1800.0
+386,2025-03-30,Mesa,8,Centro-Oeste,Marketplace,Pix,Novo,Móveis,650.0,0.0,5200.0
+387,2025-11-25,Impressora,2,Centro-Oeste,Marketplace,Pix,Recorrente,Escritório,900.0,0.0,1800.0
+388,2026-08-03,Mesa,6,Nordeste,Marketplace,Boleto,Novo,Móveis,650.0,0.05,3705.0
+389,2025-12-23,Impressora,7,Centro-Oeste,Site,Pix,Novo,Escritório,900.0,0.0,6300.0
+390,2026-09-02,Webcam,8,Nordeste,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.1,1800.0
+391,2025-09-24,Tablet,8,Centro-Oeste,Marketplace,Cartão de crédito,Novo,Eletrônicos,1800.0,0.0,14400.0
+392,2026-09-09,Impressora,4,Sul,Site,Cartão de débito,Novo,Escritório,900.0,0.1,3240.0
+393,2025-11-19,Notebook,1,Sul,Loja física,Pix,Novo,Eletrônicos,3500.0,0.05,3325.0
+394,2026-09-27,Mesa,7,Nordeste,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.05,4322.5
+395,2026-06-25,Mesa,8,Sul,Marketplace,Boleto,Novo,Móveis,650.0,0.0,5200.0
+396,2025-07-14,Notebook,8,Nordeste,Site,Pix,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+397,2025-11-28,Mouse,8,Sul,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.15,544.0
+398,2025-06-19,Cadeira,1,Sul,Loja física,Pix,Recorrente,Móveis,750.0,0.0,750.0
+399,2026-06-05,Tablet,1,Nordeste,Marketplace,Boleto,Recorrente,Eletrônicos,1800.0,0.1,1620.0
+400,2026-04-08,Headset,2,Sudeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.2,288.0
+401,2025-02-09,Impressora,7,Sul,Loja física,Cartão de débito,Novo,Escritório,900.0,0.0,6300.0
+402,2026-06-21,Notebook,2,Centro-Oeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,7000.0
+403,2025-09-18,Webcam,3,Sudeste,Marketplace,Pix,Recorrente,Acessórios,250.0,0.1,675.0
+404,2026-01-30,Impressora,1,Nordeste,Loja física,Boleto,Novo,Escritório,900.0,0.2,720.0
+405,2025-08-14,Cadeira,4,Sudeste,Site,Cartão de crédito,Novo,Móveis,750.0,0.15,2550.0
+406,2025-05-04,Webcam,6,Norte,Marketplace,Boleto,Novo,Acessórios,250.0,0.05,1425.0
+407,2025-02-07,Teclado,4,Norte,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.1,540.0
+408,2025-11-24,Mesa,6,Sul,Site,Pix,Novo,Móveis,650.0,0.0,3900.0
+409,2025-09-08,Teclado,1,Sul,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.2,120.0
+410,2025-06-25,Impressora,1,Centro-Oeste,Loja física,Boleto,Novo,Escritório,900.0,0.2,720.0
+411,2026-08-25,Cadeira,1,Sudeste,Marketplace,Boleto,Recorrente,Móveis,750.0,0.0,750.0
+412,2026-03-30,Tablet,2,Norte,Site,Pix,Novo,Eletrônicos,1800.0,0.0,3600.0
+413,2025-02-06,Impressora,7,Sul,Marketplace,Boleto,Novo,Escritório,900.0,0.0,6300.0
+414,2025-11-12,Notebook,6,Sudeste,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,21000.0
+415,2026-08-16,Monitor,7,Sul,Loja física,Pix,Novo,Eletrônicos,1200.0,0.1,7560.0
+416,2025-04-24,Impressora,2,Sul,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.0,1800.0
+417,2025-02-09,Mesa,2,Norte,Loja física,Boleto,Recorrente,Móveis,650.0,0.0,1300.0
+418,2025-10-28,Mesa,5,Norte,Loja física,Pix,Novo,Móveis,650.0,0.0,3250.0
+419,2025-08-12,Impressora,4,Sul,Loja física,Cartão de crédito,Recorrente,Escritório,900.0,0.2,2880.0
+420,2025-11-14,Webcam,4,Nordeste,Loja física,Boleto,Novo,Acessórios,250.0,0.05,950.0
+421,2025-12-15,Monitor,3,Sul,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.05,3420.0
+422,2025-04-25,Notebook,8,Sul,Site,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,28000.0
+423,2025-11-19,Impressora,2,Centro-Oeste,Site,Boleto,Recorrente,Escritório,900.0,0.2,1440.0
+424,2026-07-22,Webcam,6,Centro-Oeste,Site,Cartão de crédito,Novo,Acessórios,250.0,0.1,1350.0
+425,2025-02-09,Mesa,5,Centro-Oeste,Loja física,Pix,Recorrente,Móveis,650.0,0.0,3250.0
+426,2025-02-09,Mesa,5,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.0,3250.0
+427,2025-10-16,Cadeira,8,Nordeste,Site,Boleto,Recorrente,Móveis,750.0,0.0,6000.0
+428,2025-09-19,Impressora,7,Sul,Site,Boleto,Recorrente,Escritório,900.0,0.0,6300.0
+429,2025-08-04,Monitor,8,Centro-Oeste,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.05,9120.0
+430,2025-05-27,Mouse,8,Nordeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,80.0,0.15,544.0
+431,2025-12-02,Monitor,8,Norte,Marketplace,Cartão de débito,Novo,Eletrônicos,1200.0,0.05,9120.0
+432,2025-06-17,Mesa,4,Sul,Site,Cartão de crédito,Novo,Móveis,650.0,0.1,2340.0
+433,2025-04-02,Mesa,2,Sudeste,Loja física,Cartão de débito,Novo,Móveis,650.0,0.05,1235.0
+434,2025-12-19,Teclado,3,Sul,Marketplace,Pix,Recorrente,Acessórios,150.0,0.1,405.0
+435,2026-07-25,Mesa,2,Sudeste,Site,Cartão de crédito,Recorrente,Móveis,650.0,0.1,1170.0
+436,2026-07-25,Notebook,7,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+437,2025-12-29,Headset,1,Sudeste,Marketplace,Pix,Novo,Acessórios,180.0,0.0,180.0
+438,2026-07-11,Impressora,8,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Escritório,900.0,0.05,6840.0
+439,2025-12-11,Monitor,2,Norte,Site,Boleto,Novo,Eletrônicos,1200.0,0.0,2400.0
+440,2025-06-19,Headset,7,Sudeste,Loja física,Pix,Novo,Acessórios,180.0,0.0,1260.0
+441,2025-12-22,Webcam,1,Sul,Site,Boleto,Recorrente,Acessórios,250.0,0.05,237.5
+442,2025-07-10,Mouse,1,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,80.0,0.2,64.0
+443,2026-02-26,Notebook,8,Sul,Site,Pix,Recorrente,Eletrônicos,3500.0,0.05,26600.0
+444,2025-01-07,Monitor,3,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.1,3240.0
+445,2025-05-13,Headset,6,Centro-Oeste,Loja física,Boleto,Novo,Acessórios,180.0,0.05,1026.0
+446,2026-07-11,Mouse,4,Sudeste,Marketplace,Pix,Recorrente,Acessórios,80.0,0.1,288.0
+447,2025-01-31,Teclado,2,Centro-Oeste,Site,Cartão de crédito,Novo,Acessórios,150.0,0.05,285.0
+448,2026-06-19,Notebook,1,Sul,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.15,2975.0
+449,2026-03-02,Notebook,2,Norte,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,6650.0
+450,2026-01-29,Teclado,6,Centro-Oeste,Site,Pix,Novo,Acessórios,150.0,0.05,855.0
+451,2025-12-29,Impressora,4,Sudeste,Site,Cartão de crédito,Novo,Escritório,900.0,0.05,3420.0
+452,2026-03-13,Teclado,6,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,150.0,0.05,855.0
+453,2026-07-05,Notebook,4,Norte,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+454,2025-03-23,Notebook,5,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,17500.0
+455,2025-12-22,Headset,4,Centro-Oeste,Loja física,Boleto,Novo,Acessórios,180.0,0.0,720.0
+456,2025-09-15,Mesa,8,Sul,Site,Cartão de crédito,Novo,Móveis,650.0,0.15,4420.0
+457,2026-08-12,Mouse,3,Sul,Site,Boleto,Recorrente,Acessórios,80.0,0.0,240.0
+458,2026-06-08,Teclado,6,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,900.0
+459,2025-10-22,Mouse,1,Sul,Loja física,Boleto,Novo,Acessórios,80.0,0.1,72.0
+460,2025-08-12,Teclado,8,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,1200.0
+461,2026-06-09,Webcam,5,Sul,Loja física,Boleto,Novo,Acessórios,250.0,0.05,1187.5
+462,2025-02-15,Notebook,3,Sudeste,Loja física,Pix,Recorrente,Eletrônicos,3500.0,0.0,10500.0
+463,2025-04-23,Mesa,2,Centro-Oeste,Site,Boleto,Recorrente,Móveis,650.0,0.2,1040.0
+464,2025-08-21,Headset,8,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.15,1224.0
+465,2025-01-17,Mesa,6,Sul,Site,Cartão de crédito,Novo,Móveis,650.0,0.15,3315.0
+466,2025-12-26,Mesa,7,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.05,4322.5
+467,2025-08-11,Mesa,7,Centro-Oeste,Loja física,Boleto,Novo,Móveis,650.0,0.1,4095.0
+468,2026-03-24,Mouse,1,Sul,Site,Pix,Novo,Acessórios,80.0,0.0,80.0
+469,2025-12-31,Teclado,4,Sudeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.0,600.0
+470,2025-11-22,Tablet,1,Sul,Marketplace,Boleto,Recorrente,Eletrônicos,1800.0,0.0,1800.0
+471,2026-04-12,Webcam,7,Centro-Oeste,Site,Pix,Recorrente,Acessórios,250.0,0.05,1662.5
+472,2026-02-18,Monitor,2,Sudeste,Marketplace,Boleto,Recorrente,Eletrônicos,1200.0,0.05,2280.0
+473,2026-03-31,Mesa,5,Sul,Loja física,Pix,Recorrente,Móveis,650.0,0.05,3087.5
+474,2026-08-09,Impressora,5,Norte,Site,Pix,Novo,Escritório,900.0,0.0,4500.0
+475,2025-08-21,Mouse,6,Sudeste,Loja física,Boleto,Novo,Acessórios,80.0,0.05,456.0
+476,2025-08-12,Headset,5,Norte,Marketplace,Boleto,Novo,Acessórios,180.0,0.1,810.0
+477,2026-02-16,Monitor,6,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+478,2026-07-26,Tablet,8,Sudeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.1,12960.0
+479,2025-12-01,Impressora,6,Norte,Loja física,Cartão de débito,Novo,Escritório,900.0,0.0,5400.0
+480,2025-08-10,Tablet,8,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,12960.0
+481,2025-02-06,Monitor,6,Centro-Oeste,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+482,2025-10-05,Mesa,7,Nordeste,Loja física,Pix,Recorrente,Móveis,650.0,0.0,4550.0
+483,2025-07-15,Impressora,7,Sudeste,Site,Cartão de débito,Novo,Escritório,900.0,0.0,6300.0
+484,2026-04-29,Tablet,4,Sudeste,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.05,6840.0
+485,2025-08-30,Headset,8,Sudeste,Site,Cartão de débito,Novo,Acessórios,180.0,0.1,1296.0
+486,2025-11-20,Teclado,3,Nordeste,Marketplace,Pix,Novo,Acessórios,150.0,0.05,427.5
+487,2025-07-11,Notebook,8,Sudeste,Marketplace,Boleto,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+488,2025-01-17,Teclado,6,Centro-Oeste,Marketplace,Pix,Recorrente,Acessórios,150.0,0.15,765.0
+489,2026-06-08,Monitor,6,Norte,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.1,6480.0
+490,2026-02-05,Mouse,3,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.05,228.0
+491,2025-01-22,Notebook,1,Centro-Oeste,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,3325.0
+492,2026-04-19,Webcam,6,Norte,Loja física,Cartão de débito,Novo,Acessórios,250.0,0.0,1500.0
+493,2025-04-30,Headset,4,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,180.0,0.05,684.0
+494,2025-07-29,Webcam,5,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,250.0,0.0,1250.0
+495,2025-11-02,Impressora,5,Norte,Loja física,Cartão de crédito,Novo,Escritório,900.0,0.2,3600.0
+496,2025-09-27,Notebook,2,Centro-Oeste,Loja física,Boleto,Novo,Eletrônicos,3500.0,0.05,6650.0
+497,2025-10-12,Webcam,2,Sul,Marketplace,Boleto,Recorrente,Acessórios,250.0,0.05,475.0
+498,2025-08-15,Webcam,5,Centro-Oeste,Loja física,Pix,Novo,Acessórios,250.0,0.05,1187.5
+499,2026-01-16,Tablet,5,Nordeste,Site,Pix,Recorrente,Eletrônicos,1800.0,0.15,7650.0
+500,2026-04-05,Teclado,7,Sudeste,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.1,945.0
+501,2025-01-07,Tablet,4,Centro-Oeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.05,6840.0
+502,2025-01-29,Notebook,3,Sudeste,Loja física,Pix,Novo,Eletrônicos,3500.0,0.1,9450.0
+503,2025-02-02,Notebook,2,Sul,Marketplace,Cartão de débito,Novo,Eletrônicos,3500.0,0.05,6650.0
+504,2025-03-20,Monitor,7,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.05,7980.0
+505,2026-04-04,Tablet,7,Norte,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.0,12600.0
+506,2026-07-24,Cadeira,3,Sudeste,Marketplace,Cartão de débito,Recorrente,Móveis,750.0,0.05,2137.5
+507,2026-06-22,Teclado,7,Sul,Marketplace,Boleto,Novo,Acessórios,150.0,0.0,1050.0
+508,2026-04-27,Notebook,8,Norte,Marketplace,Pix,Novo,Eletrônicos,3500.0,0.15,23800.0
+509,2026-03-06,Monitor,4,Norte,Marketplace,Pix,Novo,Eletrônicos,1200.0,0.0,4800.0
+510,2025-10-12,Tablet,5,Norte,Loja física,Cartão de crédito,Novo,Eletrônicos,1800.0,0.2,7200.0
+511,2026-05-31,Teclado,6,Norte,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.05,855.0
+512,2025-04-09,Tablet,3,Centro-Oeste,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.05,5130.0
+513,2026-02-01,Webcam,5,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Acessórios,250.0,0.05,1187.5
+514,2026-05-04,Monitor,5,Centro-Oeste,Marketplace,Pix,Novo,Eletrônicos,1200.0,0.0,6000.0
+515,2025-02-08,Teclado,1,Sul,Loja física,Pix,Novo,Acessórios,150.0,0.0,150.0
+516,2025-09-28,Mesa,8,Sul,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,5200.0
+517,2025-06-06,Impressora,3,Sul,Marketplace,Boleto,Novo,Escritório,900.0,0.05,2565.0
+518,2025-03-16,Impressora,7,Nordeste,Marketplace,Cartão de débito,Recorrente,Escritório,900.0,0.05,5985.0
+519,2025-05-10,Teclado,6,Sul,Marketplace,Boleto,Novo,Acessórios,150.0,0.1,810.0
+520,2025-03-25,Tablet,3,Centro-Oeste,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.0,5400.0
+521,2025-01-22,Monitor,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,8400.0
+522,2026-04-04,Impressora,5,Nordeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.05,4275.0
+523,2026-06-23,Monitor,6,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.15,6120.0
+524,2026-01-17,Impressora,7,Sul,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.1,5670.0
+525,2026-03-16,Webcam,4,Sudeste,Loja física,Pix,Novo,Acessórios,250.0,0.05,950.0
+526,2026-08-27,Tablet,7,Nordeste,Marketplace,Pix,Novo,Eletrônicos,1800.0,0.05,11970.0
+527,2025-01-21,Webcam,1,Norte,Site,Cartão de débito,Recorrente,Acessórios,250.0,0.0,250.0
+528,2025-10-30,Impressora,8,Centro-Oeste,Loja física,Cartão de débito,Novo,Escritório,900.0,0.2,5760.0
+529,2025-03-25,Mesa,5,Norte,Site,Pix,Recorrente,Móveis,650.0,0.1,2925.0
+530,2026-03-29,Mesa,7,Centro-Oeste,Loja física,Boleto,Recorrente,Móveis,650.0,0.0,4550.0
+531,2026-01-22,Webcam,8,Centro-Oeste,Loja física,Cartão de débito,Novo,Acessórios,250.0,0.05,1900.0
+532,2026-05-22,Mesa,2,Nordeste,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.0,1300.0
+533,2025-09-14,Impressora,2,Nordeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.2,1440.0
+534,2026-07-24,Teclado,8,Norte,Marketplace,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,1200.0
+535,2026-06-11,Webcam,8,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.05,1900.0
+536,2025-06-11,Mouse,1,Norte,Marketplace,Boleto,Novo,Acessórios,80.0,0.0,80.0
+537,2025-06-12,Tablet,4,Sudeste,Site,Boleto,Novo,Eletrônicos,1800.0,0.1,6480.0
+538,2026-06-08,Mesa,5,Norte,Site,Pix,Recorrente,Móveis,650.0,0.1,2925.0
+539,2025-09-28,Mesa,3,Sul,Site,Cartão de débito,Novo,Móveis,650.0,0.1,1755.0
+540,2026-05-07,Notebook,1,Norte,Marketplace,Boleto,Recorrente,Eletrônicos,3500.0,0.05,3325.0
+541,2025-07-27,Cadeira,4,Sul,Site,Cartão de débito,Recorrente,Móveis,750.0,0.15,2550.0
+542,2026-06-23,Webcam,8,Sul,Site,Pix,Recorrente,Acessórios,250.0,0.0,2000.0
+543,2026-08-07,Headset,3,Sul,Marketplace,Pix,Novo,Acessórios,180.0,0.0,540.0
+544,2025-03-01,Mesa,8,Sudeste,Marketplace,Pix,Recorrente,Móveis,650.0,0.0,5200.0
+545,2026-03-06,Tablet,8,Norte,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.2,11520.0
+546,2026-08-28,Mouse,2,Norte,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.0,160.0
+547,2025-11-05,Mesa,2,Sudeste,Loja física,Pix,Recorrente,Móveis,650.0,0.1,1170.0
+548,2026-06-04,Mouse,3,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.1,216.0
+549,2026-08-14,Impressora,1,Nordeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.0,900.0
+550,2025-01-27,Impressora,2,Norte,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.0,1800.0
+551,2026-07-16,Cadeira,5,Nordeste,Marketplace,Pix,Recorrente,Móveis,750.0,0.0,3750.0
+552,2025-07-18,Teclado,8,Sudeste,Loja física,Pix,Novo,Acessórios,150.0,0.05,1140.0
+553,2026-01-22,Headset,6,Centro-Oeste,Site,Boleto,Recorrente,Acessórios,180.0,0.0,1080.0
+554,2025-12-15,Notebook,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+555,2026-06-20,Cadeira,3,Centro-Oeste,Marketplace,Pix,Recorrente,Móveis,750.0,0.15,1912.5
+556,2026-01-13,Monitor,3,Sudeste,Marketplace,Boleto,Recorrente,Eletrônicos,1200.0,0.2,2880.0
+557,2026-07-12,Notebook,2,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,7000.0
+558,2026-06-11,Webcam,1,Sul,Marketplace,Pix,Recorrente,Acessórios,250.0,0.0,250.0
+559,2025-06-02,Tablet,8,Nordeste,Site,Boleto,Recorrente,Eletrônicos,1800.0,0.0,14400.0
+560,2025-07-25,Monitor,5,Sul,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.1,5400.0
+561,2026-03-31,Monitor,1,Sul,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.1,1080.0
+562,2025-09-30,Cadeira,4,Centro-Oeste,Site,Boleto,Recorrente,Móveis,750.0,0.0,3000.0
+563,2025-08-24,Teclado,4,Centro-Oeste,Site,Cartão de débito,Novo,Acessórios,150.0,0.0,600.0
+564,2026-06-05,Cadeira,6,Nordeste,Site,Cartão de débito,Recorrente,Móveis,750.0,0.1,4050.0
+565,2026-05-16,Webcam,2,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.05,475.0
+566,2025-04-27,Mesa,2,Nordeste,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.0,1300.0
+567,2026-01-21,Mesa,2,Nordeste,Loja física,Boleto,Recorrente,Móveis,650.0,0.05,1235.0
+568,2025-12-10,Teclado,6,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.0,900.0
+569,2026-08-07,Webcam,4,Sudeste,Site,Pix,Recorrente,Acessórios,250.0,0.0,1000.0
+570,2026-01-30,Teclado,1,Nordeste,Site,Cartão de crédito,Novo,Acessórios,150.0,0.1,135.0
+571,2025-03-05,Mouse,6,Nordeste,Site,Cartão de crédito,Recorrente,Acessórios,80.0,0.1,432.0
+572,2025-03-13,Mesa,6,Nordeste,Loja física,Boleto,Recorrente,Móveis,650.0,0.05,3705.0
+573,2025-10-01,Monitor,1,Sul,Loja física,Cartão de débito,Novo,Eletrônicos,1200.0,0.15,1020.0
+574,2025-11-16,Headset,2,Sudeste,Site,Boleto,Novo,Acessórios,180.0,0.05,342.0
+575,2025-12-04,Tablet,5,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.1,8100.0
+576,2026-01-01,Webcam,1,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.05,237.5
+577,2026-05-10,Notebook,4,Centro-Oeste,Site,Pix,Novo,Eletrônicos,3500.0,0.15,11900.0
+578,2026-08-30,Teclado,3,Sul,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.15,382.5
+579,2025-06-15,Tablet,8,Sul,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.0,14400.0
+580,2026-06-28,Notebook,3,Norte,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.15,8925.0
+581,2025-01-11,Tablet,7,Norte,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,11340.0
+582,2025-10-28,Headset,7,Norte,Loja física,Pix,Recorrente,Acessórios,180.0,0.1,1134.0
+583,2025-04-12,Notebook,6,Sul,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.0,21000.0
+584,2026-03-01,Cadeira,8,Sul,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.1,5400.0
+585,2026-01-27,Impressora,3,Sul,Site,Pix,Recorrente,Escritório,900.0,0.15,2295.0
+586,2025-08-02,Cadeira,5,Centro-Oeste,Marketplace,Boleto,Novo,Móveis,750.0,0.0,3750.0
+587,2025-03-29,Mesa,2,Sul,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.2,1040.0
+588,2026-07-07,Impressora,4,Centro-Oeste,Marketplace,Boleto,Novo,Escritório,900.0,0.0,3600.0
+589,2026-02-05,Cadeira,7,Norte,Site,Pix,Novo,Móveis,750.0,0.0,5250.0
+590,2026-08-11,Impressora,5,Norte,Site,Boleto,Novo,Escritório,900.0,0.05,4275.0
+591,2025-02-15,Impressora,4,Norte,Site,Cartão de débito,Novo,Escritório,900.0,0.05,3420.0
+592,2026-04-08,Monitor,4,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.05,4560.0
+593,2026-08-15,Teclado,2,Nordeste,Site,Cartão de débito,Novo,Acessórios,150.0,0.0,300.0
+594,2025-11-06,Teclado,8,Sudeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.2,960.0
+595,2025-03-27,Monitor,6,Sudeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,7200.0
+596,2025-04-02,Tablet,3,Sudeste,Site,Pix,Recorrente,Eletrônicos,1800.0,0.0,5400.0
+597,2025-08-30,Mouse,2,Nordeste,Site,Cartão de débito,Novo,Acessórios,80.0,0.0,160.0
+598,2025-01-02,Tablet,5,Nordeste,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.05,8550.0
+599,2025-08-13,Notebook,6,Sudeste,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.15,17850.0
+600,2026-08-12,Notebook,5,Sudeste,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.1,15750.0
+601,2025-04-26,Impressora,6,Sul,Site,Pix,Recorrente,Escritório,900.0,0.1,4860.0
+602,2025-04-13,Cadeira,8,Sudeste,Loja física,Boleto,Recorrente,Móveis,750.0,0.0,6000.0
+603,2025-07-13,Cadeira,7,Sul,Site,Pix,Recorrente,Móveis,750.0,0.05,4987.5
+604,2025-06-15,Teclado,5,Centro-Oeste,Marketplace,Cartão de débito,Novo,Acessórios,150.0,0.05,712.5
+605,2025-03-31,Webcam,2,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,250.0,0.05,475.0
+606,2025-05-02,Tablet,6,Sudeste,Site,Cartão de débito,Novo,Eletrônicos,1800.0,0.0,10800.0
+607,2025-05-23,Mesa,6,Nordeste,Loja física,Cartão de crédito,Recorrente,Móveis,650.0,0.1,3510.0
+608,2025-04-16,Headset,4,Nordeste,Marketplace,Cartão de débito,Novo,Acessórios,180.0,0.05,684.0
+609,2026-03-04,Cadeira,4,Nordeste,Marketplace,Cartão de crédito,Novo,Móveis,750.0,0.1,2700.0
+610,2025-11-01,Headset,1,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.05,171.0
+611,2025-11-13,Impressora,5,Norte,Site,Pix,Recorrente,Escritório,900.0,0.0,4500.0
+612,2026-09-27,Headset,4,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.05,684.0
+613,2025-01-09,Mesa,1,Norte,Marketplace,Pix,Recorrente,Móveis,650.0,0.0,650.0
+614,2025-03-14,Monitor,7,Norte,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.15,7140.0
+615,2025-12-25,Mesa,7,Norte,Loja física,Boleto,Novo,Móveis,650.0,0.05,4322.5
+616,2025-08-11,Headset,4,Nordeste,Marketplace,Pix,Recorrente,Acessórios,180.0,0.0,720.0
+617,2026-02-20,Mesa,5,Sul,Site,Cartão de crédito,Novo,Móveis,650.0,0.2,2600.0
+618,2026-07-07,Mouse,6,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,80.0,0.05,456.0
+619,2026-01-05,Impressora,3,Nordeste,Site,Boleto,Recorrente,Escritório,900.0,0.0,2700.0
+620,2025-09-21,Tablet,8,Norte,Marketplace,Cartão de débito,Novo,Eletrônicos,1800.0,0.05,13680.0
+621,2025-11-14,Monitor,5,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+622,2025-03-25,Cadeira,8,Norte,Loja física,Pix,Novo,Móveis,750.0,0.1,5400.0
+623,2025-11-14,Notebook,2,Sul,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.1,6300.0
+624,2025-04-21,Tablet,7,Sudeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.2,10080.0
+625,2025-09-08,Notebook,4,Norte,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+626,2026-01-18,Impressora,4,Sul,Marketplace,Boleto,Novo,Escritório,900.0,0.05,3420.0
+627,2025-01-07,Monitor,8,Sudeste,Marketplace,Boleto,Novo,Eletrônicos,1200.0,0.1,8640.0
+628,2026-04-04,Teclado,6,Centro-Oeste,Loja física,Boleto,Novo,Acessórios,150.0,0.0,900.0
+629,2025-03-25,Cadeira,8,Norte,Loja física,Cartão de crédito,Novo,Móveis,750.0,0.05,5700.0
+630,2025-07-27,Mouse,2,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.05,152.0
+631,2026-01-25,Teclado,6,Centro-Oeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.0,900.0
+632,2025-11-10,Impressora,2,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.05,1710.0
+633,2025-01-22,Tablet,3,Norte,Site,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.15,4590.0
+634,2026-02-14,Mouse,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.15,476.0
+635,2026-05-30,Mesa,4,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.0,2600.0
+636,2025-05-07,Headset,4,Sudeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,720.0
+637,2025-01-14,Mouse,3,Sudeste,Loja física,Boleto,Recorrente,Acessórios,80.0,0.0,240.0
+638,2025-01-12,Impressora,1,Sudeste,Marketplace,Pix,Novo,Escritório,900.0,0.15,765.0
+639,2025-03-28,Webcam,7,Nordeste,Marketplace,Boleto,Novo,Acessórios,250.0,0.0,1750.0
+640,2026-06-08,Headset,6,Centro-Oeste,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.1,972.0
+641,2026-06-21,Notebook,3,Sul,Site,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,10500.0
+642,2025-10-28,Cadeira,6,Centro-Oeste,Loja física,Boleto,Novo,Móveis,750.0,0.05,4275.0
+643,2025-08-31,Notebook,8,Norte,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+644,2025-05-02,Mouse,5,Não informado,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.1,360.0
+645,2025-05-27,Notebook,4,Centro-Oeste,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+646,2026-07-21,Impressora,6,Sul,Loja física,Cartão de débito,Novo,Escritório,900.0,0.05,5130.0
+647,2025-12-22,Mesa,2,Norte,Loja física,Cartão de débito,Recorrente,Móveis,650.0,0.0,1300.0
+648,2026-09-23,Tablet,6,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,9720.0
+649,2025-11-05,Cadeira,5,Nordeste,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.15,3187.5
+650,2025-10-15,Notebook,7,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+651,2025-11-03,Notebook,4,Norte,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.15,11900.0
+652,2026-08-17,Mouse,8,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.05,608.0
+653,2026-07-03,Tablet,3,Centro-Oeste,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.0,5400.0
+654,2025-12-18,Teclado,8,Norte,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.05,1140.0
+655,2025-11-08,Notebook,5,Nordeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,17500.0
+656,2025-02-28,Impressora,4,Sul,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.1,3240.0
+657,2025-02-04,Webcam,6,Sul,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.1,1350.0
+658,2026-03-21,Cadeira,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,5250.0
+659,2025-04-03,Notebook,1,Sul,Site,Boleto,Recorrente,Eletrônicos,3500.0,0.05,3325.0
+660,2025-07-26,Impressora,7,Sul,Loja física,Cartão de crédito,Novo,Escritório,900.0,0.1,5670.0
+661,2025-12-19,Impressora,1,Norte,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.15,765.0
+662,2025-11-28,Cadeira,2,Sudeste,Marketplace,Boleto,Novo,Móveis,750.0,0.05,1425.0
+663,2025-06-08,Teclado,7,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.2,840.0
+664,2025-01-24,Impressora,4,Norte,Site,Pix,Novo,Escritório,900.0,0.05,3420.0
+665,2026-02-08,Webcam,1,Sudeste,Site,Cartão de crédito,Novo,Acessórios,250.0,0.0,250.0
+666,2026-05-31,Impressora,3,Norte,Loja física,Boleto,Recorrente,Escritório,900.0,0.1,2430.0
+667,2025-12-30,Impressora,4,Norte,Site,Pix,Recorrente,Escritório,900.0,0.05,3420.0
+668,2026-01-17,Impressora,3,Sul,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.05,2565.0
+669,2026-06-16,Mesa,7,Sudeste,Site,Boleto,Novo,Móveis,650.0,0.05,4322.5
+670,2025-06-01,Mesa,3,Centro-Oeste,Loja física,Boleto,Recorrente,Móveis,650.0,0.1,1755.0
+671,2026-07-16,Teclado,1,Centro-Oeste,Site,Cartão de débito,Novo,Acessórios,150.0,0.1,135.0
+672,2026-08-31,Notebook,4,Sudeste,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+673,2026-09-09,Impressora,6,Sul,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.0,5400.0
+674,2026-02-24,Tablet,5,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.05,8550.0
+675,2025-09-07,Notebook,1,Norte,Site,Boleto,Novo,Eletrônicos,3500.0,0.05,3325.0
+676,2025-04-27,Teclado,1,Sul,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.0,150.0
+677,2026-05-27,Monitor,6,Sudeste,Site,Cartão de débito,Novo,Eletrônicos,1200.0,0.1,6480.0
+678,2026-08-01,Notebook,4,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,13300.0
+679,2025-12-01,Notebook,4,Centro-Oeste,Site,Pix,Novo,Eletrônicos,3500.0,0.0,14000.0
+680,2026-02-22,Headset,8,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.0,1440.0
+681,2025-10-22,Mouse,7,Centro-Oeste,Marketplace,Pix,Novo,Acessórios,80.0,0.0,560.0
+682,2026-01-06,Headset,3,Sudeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.15,459.0
+683,2025-07-05,Webcam,7,Norte,Site,Cartão de crédito,Recorrente,Acessórios,250.0,0.0,1750.0
+684,2025-09-03,Mesa,6,Sudeste,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.0,3900.0
+685,2026-09-29,Mesa,7,Norte,Marketplace,Cartão de crédito,Novo,Móveis,650.0,0.05,4322.5
+686,2025-09-25,Mouse,6,Sul,Marketplace,Boleto,Recorrente,Acessórios,80.0,0.0,480.0
+687,2025-08-25,Cadeira,4,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,3000.0
+688,2026-06-14,Cadeira,3,Sul,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,2250.0
+689,2026-07-06,Teclado,7,Sul,Site,Pix,Novo,Acessórios,150.0,0.05,997.5
+690,2025-01-21,Mouse,1,Sudeste,Site,Pix,Recorrente,Acessórios,80.0,0.05,76.0
+691,2026-06-04,Notebook,2,Nordeste,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,7000.0
+692,2025-04-10,Cadeira,8,Norte,Site,Pix,Novo,Móveis,750.0,0.05,5700.0
+693,2026-04-23,Impressora,5,Norte,Marketplace,Boleto,Novo,Escritório,900.0,0.2,3600.0
+694,2026-08-22,Tablet,1,Centro-Oeste,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.0,1800.0
+695,2025-10-25,Notebook,4,Norte,Marketplace,Pix,Novo,Eletrônicos,3500.0,0.0,14000.0
+696,2026-06-10,Webcam,5,Sudeste,Site,Pix,Novo,Acessórios,250.0,0.0,1250.0
+697,2025-11-30,Impressora,2,Sul,Loja física,Pix,Recorrente,Escritório,900.0,0.05,1710.0
+698,2025-01-02,Impressora,2,Sul,Site,Pix,Recorrente,Escritório,900.0,0.1,1620.0
+699,2026-01-10,Mouse,3,Sul,Marketplace,Cartão de crédito,Novo,Acessórios,80.0,0.0,240.0
+700,2025-10-20,Teclado,5,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.1,675.0
+701,2026-07-07,Webcam,3,Norte,Loja física,Pix,Novo,Acessórios,250.0,0.0,750.0
+702,2025-11-14,Cadeira,1,Sudeste,Marketplace,Boleto,Novo,Móveis,750.0,0.05,712.5
+703,2026-05-17,Mouse,6,Nordeste,Loja física,Cartão de crédito,Novo,Acessórios,80.0,0.1,432.0
+704,2026-01-16,Cadeira,6,Centro-Oeste,Site,Boleto,Recorrente,Móveis,750.0,0.0,4500.0
+705,2026-09-15,Mouse,6,Sudeste,Site,Cartão de débito,Novo,Acessórios,80.0,0.05,456.0
+706,2025-01-14,Mouse,5,Sudeste,Site,Boleto,Novo,Acessórios,80.0,0.0,400.0
+707,2026-05-19,Mouse,6,Sudeste,Site,Pix,Recorrente,Acessórios,80.0,0.1,432.0
+708,2025-08-19,Teclado,1,Sul,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.0,150.0
+709,2025-03-25,Mouse,3,Sudeste,Site,Cartão de crédito,Novo,Acessórios,80.0,0.15,204.0
+710,2025-05-10,Monitor,5,Norte,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+711,2025-05-25,Tablet,3,Sudeste,Site,Cartão de débito,Novo,Eletrônicos,1800.0,0.15,4590.0
+712,2025-01-28,Cadeira,5,Sul,Loja física,Boleto,Recorrente,Móveis,750.0,0.0,3750.0
+713,2025-03-07,Notebook,3,Sudeste,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.1,9450.0
+714,2025-06-12,Headset,2,Centro-Oeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,360.0
+715,2025-08-17,Webcam,3,Centro-Oeste,Loja física,Cartão de débito,Novo,Acessórios,250.0,0.15,637.5
+716,2025-09-18,Mesa,6,Sul,Loja física,Pix,Novo,Móveis,650.0,0.0,3900.0
+717,2026-03-25,Teclado,2,Norte,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.0,300.0
+718,2026-02-28,Notebook,3,Norte,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,9975.0
+719,2026-04-05,Impressora,5,Nordeste,Loja física,Boleto,Novo,Escritório,900.0,0.0,4500.0
+720,2025-10-28,Monitor,5,Sul,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+721,2025-10-30,Mesa,8,Sudeste,Marketplace,Cartão de débito,Recorrente,Móveis,650.0,0.15,4420.0
+722,2025-10-14,Headset,5,Sul,Site,Pix,Recorrente,Acessórios,180.0,0.2,720.0
+723,2026-01-30,Notebook,4,Nordeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,14000.0
+724,2025-01-10,Mesa,1,Sul,Loja física,Pix,Recorrente,Móveis,650.0,0.15,552.5
+725,2026-09-22,Notebook,5,Sul,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,16625.0
+726,2025-09-27,Monitor,2,Nordeste,Loja física,Pix,Novo,Eletrônicos,1200.0,0.0,2400.0
+727,2026-08-15,Headset,8,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.1,1296.0
+728,2026-08-28,Impressora,5,Sudeste,Site,Pix,Recorrente,Escritório,900.0,0.1,4050.0
+729,2025-12-27,Mouse,4,Nordeste,Marketplace,Boleto,Recorrente,Acessórios,80.0,0.2,256.0
+730,2025-09-14,Cadeira,6,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Móveis,750.0,0.0,4500.0
+731,2025-05-13,Impressora,2,Norte,Loja física,Cartão de crédito,Novo,Escritório,900.0,0.1,1620.0
+732,2025-10-03,Mouse,4,Centro-Oeste,Site,Cartão de débito,Novo,Acessórios,80.0,0.0,320.0
+733,2026-05-28,Teclado,6,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,900.0
+734,2025-11-09,Tablet,7,Sudeste,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.0,12600.0
+735,2026-07-30,Webcam,7,Sudeste,Marketplace,Pix,Recorrente,Acessórios,250.0,0.2,1400.0
+736,2025-10-11,Webcam,2,Sul,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.1,450.0
+737,2025-05-01,Cadeira,3,Centro-Oeste,Loja física,Boleto,Recorrente,Móveis,750.0,0.1,2025.0
+738,2025-04-17,Headset,1,Norte,Loja física,Cartão de crédito,Recorrente,Acessórios,180.0,0.05,171.0
+739,2025-07-23,Monitor,8,Sudeste,Marketplace,Cartão de crédito,Novo,Eletrônicos,1200.0,0.0,9600.0
+740,2025-06-14,Headset,1,Nordeste,Marketplace,Boleto,Novo,Acessórios,180.0,0.0,180.0
+741,2025-11-01,Monitor,4,Sudeste,Site,Pix,Recorrente,Eletrônicos,1200.0,0.0,4800.0
+742,2026-05-12,Headset,6,Nordeste,Marketplace,Pix,Recorrente,Acessórios,180.0,0.0,1080.0
+743,2026-09-24,Tablet,1,Norte,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,1620.0
+744,2026-07-10,Teclado,6,Sudeste,Site,Cartão de crédito,Novo,Acessórios,150.0,0.05,855.0
+745,2025-06-05,Teclado,6,Sudeste,Loja física,Boleto,Novo,Acessórios,150.0,0.0,900.0
+746,2026-01-02,Mouse,4,Norte,Loja física,Pix,Recorrente,Acessórios,80.0,0.0,320.0
+747,2026-09-12,Mesa,4,Sudeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,2600.0
+748,2025-09-08,Teclado,4,Nordeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,150.0,0.05,570.0
+749,2025-11-30,Teclado,1,Sudeste,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.15,127.5
+750,2026-05-26,Impressora,7,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.05,5985.0
+751,2025-10-20,Impressora,4,Sul,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.1,3240.0
+752,2025-01-20,Mouse,8,Nordeste,Loja física,Pix,Recorrente,Acessórios,80.0,0.05,608.0
+753,2025-10-09,Mesa,1,Centro-Oeste,Marketplace,Boleto,Novo,Móveis,650.0,0.0,650.0
+754,2025-01-01,Cadeira,4,Norte,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.0,3000.0
+755,2025-04-29,Impressora,5,Nordeste,Site,Boleto,Recorrente,Escritório,900.0,0.15,3825.0
+756,2025-02-04,Cadeira,6,Sul,Marketplace,Cartão de crédito,Recorrente,Móveis,750.0,0.1,4050.0
+757,2025-07-17,Notebook,8,Sul,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+758,2026-04-30,Impressora,4,Norte,Site,Boleto,Recorrente,Escritório,900.0,0.05,3420.0
+759,2025-02-28,Tablet,2,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.05,3420.0
+760,2025-06-10,Mesa,6,Nordeste,Site,Pix,Recorrente,Móveis,650.0,0.05,3705.0
+761,2025-07-25,Mouse,6,Sudeste,Marketplace,Cartão de crédito,Novo,Acessórios,80.0,0.15,408.0
+762,2025-01-12,Notebook,4,Norte,Marketplace,Cartão de débito,Novo,Eletrônicos,3500.0,0.05,13300.0
+763,2026-05-05,Mesa,7,Sudeste,Loja física,Cartão de crédito,Novo,Móveis,650.0,0.05,4322.5
+764,2025-10-03,Tablet,3,Centro-Oeste,Marketplace,Pix,Recorrente,Eletrônicos,1800.0,0.0,5400.0
+765,2025-08-30,Mesa,7,Sul,Loja física,Cartão de crédito,Recorrente,Móveis,650.0,0.0,4550.0
+766,2025-08-04,Tablet,4,Sudeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.0,7200.0
+767,2025-09-08,Tablet,6,Sul,Loja física,Pix,Novo,Eletrônicos,1800.0,0.0,10800.0
+768,2025-05-06,Cadeira,8,Sudeste,Loja física,Cartão de crédito,Novo,Móveis,750.0,0.1,5400.0
+769,2025-08-05,Headset,2,Centro-Oeste,Site,Cartão de crédito,Recorrente,Acessórios,180.0,0.1,324.0
+770,2025-11-02,Notebook,8,Norte,Site,Pix,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+771,2025-07-04,Mesa,8,Centro-Oeste,Marketplace,Cartão de débito,Novo,Móveis,650.0,0.1,4680.0
+772,2025-02-08,Monitor,6,Norte,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.0,7200.0
+773,2025-08-11,Notebook,7,Norte,Site,Pix,Novo,Eletrônicos,3500.0,0.0,24500.0
+774,2025-07-03,Headset,2,Sul,Loja física,Cartão de crédito,Novo,Acessórios,180.0,0.0,360.0
+775,2026-05-10,Notebook,1,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,3500.0
+776,2026-03-03,Teclado,5,Sudeste,Site,Cartão de débito,Novo,Acessórios,150.0,0.0,750.0
+777,2025-06-27,Monitor,6,Centro-Oeste,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.05,6840.0
+778,2026-03-04,Headset,4,Sul,Marketplace,Pix,Novo,Acessórios,180.0,0.05,684.0
+779,2025-10-21,Cadeira,1,Norte,Loja física,Pix,Novo,Móveis,750.0,0.2,600.0
+780,2025-05-31,Mesa,5,Sul,Loja física,Boleto,Novo,Móveis,650.0,0.0,3250.0
+781,2026-01-19,Webcam,4,Nordeste,Site,Pix,Recorrente,Acessórios,250.0,0.0,1000.0
+782,2026-09-30,Headset,8,Nordeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.0,1440.0
+783,2025-11-04,Mouse,3,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.05,228.0
+784,2025-12-02,Mesa,4,Sul,Site,Boleto,Novo,Móveis,650.0,0.0,2600.0
+785,2026-01-10,Headset,2,Sudeste,Loja física,Pix,Novo,Acessórios,180.0,0.1,324.0
+786,2025-01-08,Teclado,2,Sudeste,Site,Boleto,Recorrente,Acessórios,150.0,0.05,285.0
+787,2025-12-07,Webcam,3,Nordeste,Loja física,Cartão de débito,Recorrente,Acessórios,250.0,0.05,712.5
+788,2025-05-09,Teclado,1,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.05,142.5
+789,2025-12-18,Webcam,5,Nordeste,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.0,1250.0
+790,2025-12-24,Mouse,4,Norte,Marketplace,Boleto,Recorrente,Acessórios,80.0,0.0,320.0
+791,2026-06-01,Mesa,2,Sul,Loja física,Pix,Recorrente,Móveis,650.0,0.0,1300.0
+792,2026-05-10,Cadeira,1,Sudeste,Marketplace,Cartão de débito,Recorrente,Móveis,750.0,0.05,712.5
+793,2025-03-27,Teclado,3,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,450.0
+794,2025-06-24,Teclado,7,Centro-Oeste,Marketplace,Cartão de crédito,Novo,Acessórios,150.0,0.0,1050.0
+795,2025-07-12,Tablet,6,Sudeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.2,8640.0
+796,2025-11-07,Webcam,7,Norte,Site,Pix,Recorrente,Acessórios,250.0,0.0,1750.0
+797,2025-04-29,Impressora,7,Norte,Site,Cartão de débito,Recorrente,Escritório,900.0,0.1,5670.0
+798,2025-08-06,Mesa,2,Centro-Oeste,Marketplace,Boleto,Recorrente,Móveis,650.0,0.1,1170.0
+799,2026-03-03,Webcam,8,Nordeste,Loja física,Pix,Recorrente,Acessórios,250.0,0.0,2000.0
+800,2026-02-18,Tablet,8,Sudeste,Loja física,Boleto,Recorrente,Eletrônicos,1800.0,0.0,14400.0
+801,2025-04-24,Notebook,3,Nordeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,10500.0
+802,2025-05-25,Webcam,4,Norte,Marketplace,Boleto,Novo,Acessórios,250.0,0.1,900.0
+803,2026-06-22,Cadeira,8,Nordeste,Site,Cartão de crédito,Recorrente,Móveis,750.0,0.05,5700.0
+804,2025-10-30,Mesa,7,Norte,Marketplace,Boleto,Recorrente,Móveis,650.0,0.1,4095.0
+805,2026-08-11,Tablet,8,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.15,12240.0
+806,2025-12-11,Notebook,7,Centro-Oeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.1,22050.0
+807,2025-01-01,Monitor,5,Sul,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.0,6000.0
+808,2025-05-27,Tablet,2,Centro-Oeste,Marketplace,Boleto,Recorrente,Eletrônicos,1800.0,0.0,3600.0
+809,2025-10-14,Monitor,2,Centro-Oeste,Site,Cartão de crédito,Novo,Eletrônicos,1200.0,0.1,2160.0
+810,2025-02-22,Mesa,4,Sul,Marketplace,Pix,Recorrente,Móveis,650.0,0.0,2600.0
+811,2025-10-31,Teclado,8,Sul,Loja física,Cartão de crédito,Novo,Acessórios,150.0,0.0,1200.0
+812,2025-03-10,Tablet,8,Sudeste,Site,Boleto,Novo,Eletrônicos,1800.0,0.1,12960.0
+813,2025-12-27,Mouse,6,Sudeste,Site,Boleto,Recorrente,Acessórios,80.0,0.05,456.0
+814,2026-08-25,Monitor,1,Centro-Oeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.15,1020.0
+815,2025-08-08,Cadeira,5,Centro-Oeste,Marketplace,Boleto,Recorrente,Móveis,750.0,0.1,3375.0
+816,2026-07-29,Mouse,2,Norte,Marketplace,Cartão de débito,Recorrente,Acessórios,80.0,0.0,160.0
+817,2026-08-08,Headset,5,Norte,Marketplace,Cartão de débito,Recorrente,Acessórios,180.0,0.15,765.0
+818,2025-06-10,Headset,2,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,180.0,0.0,360.0
+819,2025-03-30,Notebook,5,Sudeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,17500.0
+820,2026-08-08,Teclado,3,Norte,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.05,427.5
+821,2026-08-12,Mesa,7,Norte,Marketplace,Boleto,Novo,Móveis,650.0,0.0,4550.0
+822,2025-06-08,Tablet,2,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.05,3420.0
+823,2026-05-04,Impressora,5,Nordeste,Site,Pix,Novo,Escritório,900.0,0.0,4500.0
+824,2025-11-20,Cadeira,8,Norte,Site,Cartão de débito,Novo,Móveis,750.0,0.05,5700.0
+825,2026-09-02,Monitor,1,Nordeste,Site,Boleto,Recorrente,Eletrônicos,1200.0,0.0,1200.0
+826,2026-01-16,Mesa,3,Sul,Marketplace,Cartão de crédito,Recorrente,Móveis,650.0,0.1,1755.0
+827,2025-04-12,Mouse,3,Sudeste,Loja física,Cartão de crédito,Recorrente,Acessórios,80.0,0.1,216.0
+828,2026-05-09,Headset,1,Sudeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.0,180.0
+829,2026-09-06,Cadeira,5,Norte,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,3750.0
+830,2025-01-19,Impressora,8,Centro-Oeste,Site,Pix,Novo,Escritório,900.0,0.0,7200.0
+831,2026-03-30,Tablet,4,Norte,Loja física,Boleto,Novo,Eletrônicos,1800.0,0.0,7200.0
+832,2026-04-27,Notebook,1,Nordeste,Loja física,Cartão de crédito,Novo,Eletrônicos,3500.0,0.1,3150.0
+833,2026-08-17,Impressora,5,Centro-Oeste,Marketplace,Cartão de crédito,Recorrente,Escritório,900.0,0.1,4050.0
+834,2026-02-01,Cadeira,1,Nordeste,Marketplace,Cartão de crédito,Novo,Móveis,750.0,0.0,750.0
+835,2025-10-06,Impressora,1,Sul,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.0,900.0
+836,2025-12-31,Cadeira,2,Nordeste,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.0,1500.0
+837,2025-11-27,Cadeira,5,Sul,Marketplace,Boleto,Novo,Móveis,750.0,0.05,3562.5
+838,2025-12-10,Webcam,4,Sul,Loja física,Boleto,Recorrente,Acessórios,250.0,0.0,1000.0
+839,2026-03-31,Monitor,7,Nordeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.2,6720.0
+840,2026-08-24,Headset,2,Nordeste,Loja física,Boleto,Novo,Acessórios,180.0,0.1,324.0
+841,2025-03-06,Webcam,1,Sul,Site,Cartão de crédito,Recorrente,Acessórios,250.0,0.0,250.0
+842,2025-03-17,Tablet,7,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Eletrônicos,1800.0,0.05,11970.0
+843,2025-05-23,Webcam,6,Sul,Marketplace,Pix,Recorrente,Acessórios,250.0,0.15,1275.0
+844,2026-08-28,Teclado,7,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.05,997.5
+845,2026-04-18,Teclado,1,Sul,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.0,150.0
+846,2026-02-21,Headset,1,Centro-Oeste,Loja física,Pix,Recorrente,Acessórios,180.0,0.0,180.0
+847,2025-11-01,Impressora,8,Sudeste,Site,Pix,Novo,Escritório,900.0,0.1,6480.0
+848,2026-05-12,Monitor,5,Norte,Site,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.05,5700.0
+849,2025-10-18,Headset,5,Norte,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.1,810.0
+850,2025-04-12,Cadeira,2,Centro-Oeste,Marketplace,Cartão de crédito,Novo,Móveis,750.0,0.15,1275.0
+851,2025-09-24,Mouse,4,Sul,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.15,272.0
+852,2026-09-14,Monitor,2,Nordeste,Marketplace,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.15,2040.0
+853,2025-01-03,Monitor,3,Centro-Oeste,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.0,3600.0
+854,2025-03-26,Cadeira,1,Sudeste,Marketplace,Cartão de crédito,Recorrente,Móveis,750.0,0.05,712.5
+855,2025-11-24,Cadeira,7,Sudeste,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.1,4725.0
+856,2026-03-26,Notebook,6,Norte,Loja física,Boleto,Recorrente,Eletrônicos,3500.0,0.1,18900.0
+857,2026-03-30,Headset,1,Sudeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.05,171.0
+858,2026-09-21,Cadeira,1,Centro-Oeste,Site,Boleto,Recorrente,Móveis,750.0,0.0,750.0
+859,2025-08-09,Teclado,2,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.1,270.0
+860,2025-06-03,Tablet,6,Centro-Oeste,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,9720.0
+861,2025-01-12,Mouse,6,Nordeste,Marketplace,Pix,Recorrente,Acessórios,80.0,0.0,480.0
+862,2025-05-13,Headset,6,Norte,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.05,1026.0
+863,2025-10-31,Mesa,2,Sudeste,Marketplace,Cartão de débito,Recorrente,Móveis,650.0,0.0,1300.0
+864,2025-10-20,Teclado,1,Centro-Oeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.0,150.0
+865,2025-10-27,Impressora,2,Sul,Site,Pix,Novo,Escritório,900.0,0.0,1800.0
+866,2025-02-12,Cadeira,5,Norte,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.05,3562.5
+867,2025-12-09,Mesa,5,Nordeste,Loja física,Pix,Recorrente,Móveis,650.0,0.05,3087.5
+868,2025-11-22,Cadeira,2,Centro-Oeste,Loja física,Cartão de crédito,Novo,Móveis,750.0,0.05,1425.0
+869,2026-05-13,Monitor,6,Nordeste,Loja física,Pix,Recorrente,Eletrônicos,1200.0,0.1,6480.0
+870,2025-12-30,Teclado,8,Nordeste,Site,Cartão de crédito,Recorrente,Acessórios,150.0,0.1,1080.0
+871,2026-03-03,Monitor,1,Sudeste,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.0,1200.0
+872,2025-01-21,Notebook,2,Sudeste,Loja física,Boleto,Novo,Eletrônicos,3500.0,0.0,7000.0
+873,2026-02-11,Monitor,2,Centro-Oeste,Site,Cartão de crédito,Recorrente,Eletrônicos,1200.0,0.15,2040.0
+874,2026-09-11,Notebook,2,Sul,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,7000.0
+875,2025-12-02,Notebook,8,Centro-Oeste,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.2,22400.0
+876,2025-04-27,Mesa,8,Sul,Site,Cartão de débito,Recorrente,Móveis,650.0,0.1,4680.0
+877,2025-05-04,Cadeira,3,Nordeste,Loja física,Pix,Recorrente,Móveis,750.0,0.05,2137.5
+878,2026-02-03,Impressora,5,Norte,Site,Cartão de crédito,Novo,Escritório,900.0,0.2,3600.0
+879,2025-02-20,Monitor,7,Centro-Oeste,Site,Pix,Recorrente,Eletrônicos,1200.0,0.0,8400.0
+880,2025-11-20,Teclado,6,Centro-Oeste,Loja física,Boleto,Recorrente,Acessórios,150.0,0.0,900.0
+881,2025-05-21,Notebook,4,Sul,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.05,13300.0
+882,2026-04-15,Cadeira,8,Nordeste,Site,Pix,Novo,Móveis,750.0,0.0,6000.0
+883,2025-11-30,Mouse,7,Nordeste,Marketplace,Pix,Novo,Acessórios,80.0,0.15,476.0
+884,2026-01-08,Headset,8,Sul,Loja física,Cartão de débito,Novo,Acessórios,180.0,0.0,1440.0
+885,2026-07-18,Mesa,6,Nordeste,Site,Cartão de crédito,Recorrente,Móveis,650.0,0.05,3705.0
+886,2026-05-09,Impressora,4,Sudeste,Site,Pix,Recorrente,Escritório,900.0,0.05,3420.0
+887,2026-06-23,Webcam,3,Norte,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.1,675.0
+888,2025-06-05,Mesa,2,Centro-Oeste,Marketplace,Cartão de crédito,Novo,Móveis,650.0,0.0,1300.0
+889,2025-10-18,Mouse,3,Norte,Site,Boleto,Novo,Acessórios,80.0,0.0,240.0
+890,2025-05-24,Headset,8,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,180.0,0.1,1296.0
+891,2025-04-16,Mouse,3,Sudeste,Marketplace,Pix,Novo,Acessórios,80.0,0.0,240.0
+892,2026-02-24,Monitor,7,Nordeste,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.1,7560.0
+893,2025-01-02,Notebook,1,Sul,Loja física,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.05,3325.0
+894,2026-08-12,Impressora,8,Sudeste,Loja física,Cartão de crédito,Novo,Escritório,900.0,0.1,6480.0
+895,2025-03-31,Tablet,8,Norte,Marketplace,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,12960.0
+896,2025-12-11,Notebook,7,Sul,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+897,2025-12-16,Tablet,5,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.05,8550.0
+898,2026-04-04,Headset,4,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,180.0,0.15,612.0
+899,2025-09-20,Cadeira,2,Sul,Site,Boleto,Novo,Móveis,750.0,0.05,1425.0
+900,2025-12-17,Webcam,7,Sudeste,Loja física,Cartão de crédito,Novo,Acessórios,250.0,0.2,1400.0
+901,2025-04-18,Teclado,4,Sudeste,Marketplace,Pix,Recorrente,Acessórios,150.0,0.05,570.0
+902,2026-08-09,Notebook,6,Nordeste,Loja física,Cartão de crédito,Novo,Eletrônicos,3500.0,0.0,21000.0
+903,2025-02-08,Impressora,4,Centro-Oeste,Loja física,Pix,Novo,Escritório,900.0,0.0,3600.0
+904,2025-06-08,Mouse,6,Sul,Site,Boleto,Novo,Acessórios,80.0,0.2,384.0
+905,2026-08-06,Impressora,7,Nordeste,Site,Cartão de débito,Novo,Escritório,900.0,0.0,6300.0
+906,2025-11-08,Headset,8,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.15,1224.0
+907,2025-08-29,Tablet,8,Nordeste,Site,Cartão de crédito,Novo,Eletrônicos,1800.0,0.15,12240.0
+908,2026-03-21,Mouse,5,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.0,400.0
+909,2025-10-25,Teclado,7,Sul,Loja física,Boleto,Recorrente,Acessórios,150.0,0.0,1050.0
+910,2025-02-05,Teclado,6,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.1,810.0
+911,2025-03-25,Notebook,4,Norte,Site,Cartão de crédito,Novo,Eletrônicos,3500.0,0.0,14000.0
+912,2026-03-28,Headset,4,Sul,Loja física,Boleto,Recorrente,Acessórios,180.0,0.1,648.0
+913,2026-01-20,Cadeira,6,Centro-Oeste,Marketplace,Pix,Novo,Móveis,750.0,0.05,4275.0
+914,2025-06-21,Headset,3,Sudeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,180.0,0.05,513.0
+915,2026-01-11,Tablet,5,Sul,Marketplace,Pix,Recorrente,Eletrônicos,1800.0,0.1,8100.0
+916,2025-12-28,Impressora,1,Sul,Loja física,Boleto,Recorrente,Escritório,900.0,0.0,900.0
+917,2026-07-13,Teclado,8,Nordeste,Marketplace,Cartão de crédito,Recorrente,Acessórios,150.0,0.05,1140.0
+918,2025-05-21,Impressora,2,Sudeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.0,1800.0
+919,2025-04-28,Impressora,4,Norte,Loja física,Boleto,Recorrente,Escritório,900.0,0.0,3600.0
+920,2025-10-04,Impressora,2,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Escritório,900.0,0.05,1710.0
+921,2025-08-08,Teclado,1,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.1,135.0
+922,2025-01-26,Mesa,7,Centro-Oeste,Site,Cartão de crédito,Novo,Móveis,650.0,0.0,4550.0
+923,2026-06-05,Monitor,2,Norte,Site,Pix,Recorrente,Eletrônicos,1200.0,0.05,2280.0
+924,2025-01-10,Tablet,1,Norte,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,1620.0
+925,2026-01-13,Mesa,8,Sul,Site,Pix,Recorrente,Móveis,650.0,0.0,5200.0
+926,2026-09-25,Tablet,6,Norte,Loja física,Pix,Recorrente,Eletrônicos,1800.0,0.0,10800.0
+927,2026-09-29,Mouse,3,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.15,204.0
+928,2026-08-07,Headset,8,Sudeste,Loja física,Cartão de débito,Novo,Acessórios,180.0,0.1,1296.0
+929,2025-06-01,Headset,4,Sudeste,Marketplace,Boleto,Recorrente,Acessórios,180.0,0.05,684.0
+930,2025-02-18,Webcam,1,Sul,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.05,237.5
+931,2025-06-03,Headset,2,Centro-Oeste,Site,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,360.0
+932,2025-10-20,Teclado,4,Centro-Oeste,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.05,570.0
+933,2026-08-03,Cadeira,3,Norte,Loja física,Boleto,Novo,Móveis,750.0,0.05,2137.5
+934,2025-02-19,Notebook,6,Centro-Oeste,Marketplace,Boleto,Recorrente,Eletrônicos,3500.0,0.05,19950.0
+935,2026-06-15,Webcam,7,Nordeste,Loja física,Boleto,Recorrente,Acessórios,250.0,0.0,1750.0
+936,2026-09-04,Notebook,4,Norte,Loja física,Cartão de débito,Novo,Eletrônicos,3500.0,0.0,14000.0
+937,2025-03-01,Tablet,7,Nordeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.0,12600.0
+938,2025-06-16,Notebook,1,Sul,Site,Pix,Novo,Eletrônicos,3500.0,0.2,2800.0
+939,2025-07-21,Notebook,3,Sudeste,Site,Pix,Novo,Eletrônicos,3500.0,0.05,9975.0
+940,2025-05-26,Webcam,2,Sul,Marketplace,Cartão de crédito,Recorrente,Acessórios,250.0,0.05,475.0
+941,2026-03-15,Mouse,3,Sudeste,Loja física,Pix,Recorrente,Acessórios,80.0,0.0,240.0
+942,2025-08-30,Impressora,3,Sul,Loja física,Cartão de crédito,Novo,Escritório,900.0,0.0,2700.0
+943,2026-08-04,Headset,5,Centro-Oeste,Marketplace,Boleto,Novo,Acessórios,180.0,0.1,810.0
+944,2026-07-15,Headset,3,Nordeste,Marketplace,Pix,Novo,Acessórios,180.0,0.05,513.0
+945,2026-04-28,Teclado,3,Sudeste,Loja física,Cartão de débito,Novo,Acessórios,150.0,0.05,427.5
+946,2025-04-18,Webcam,8,Norte,Site,Pix,Recorrente,Acessórios,250.0,0.0,2000.0
+947,2025-08-14,Teclado,4,Nordeste,Loja física,Cartão de crédito,Recorrente,Acessórios,150.0,0.1,540.0
+948,2026-09-23,Cadeira,2,Norte,Marketplace,Pix,Novo,Móveis,750.0,0.0,1500.0
+949,2026-03-08,Cadeira,8,Nordeste,Loja física,Boleto,Recorrente,Móveis,750.0,0.0,6000.0
+950,2026-02-23,Teclado,8,Nordeste,Marketplace,Cartão de débito,Recorrente,Acessórios,150.0,0.05,1140.0
+951,2026-03-31,Webcam,4,Sul,Site,Cartão de crédito,Novo,Acessórios,250.0,0.0,1000.0
+952,2025-06-09,Teclado,4,Sudeste,Site,Cartão de débito,Recorrente,Acessórios,150.0,0.0,600.0
+953,2026-06-07,Headset,1,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,180.0,0.05,171.0
+954,2026-08-13,Mesa,4,Nordeste,Site,Cartão de crédito,Novo,Móveis,650.0,0.1,2340.0
+955,2025-03-18,Monitor,5,Centro-Oeste,Site,Cartão de débito,Novo,Eletrônicos,1200.0,0.1,5400.0
+956,2026-05-24,Notebook,5,Centro-Oeste,Loja física,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,16625.0
+957,2026-03-17,Monitor,8,Norte,Site,Pix,Recorrente,Eletrônicos,1200.0,0.0,9600.0
+958,2025-09-11,Webcam,7,Norte,Marketplace,Cartão de débito,Novo,Acessórios,250.0,0.0,1750.0
+959,2025-11-16,Monitor,1,Sul,Site,Cartão de débito,Novo,Eletrônicos,1200.0,0.2,960.0
+960,2025-09-20,Cadeira,7,Nordeste,Site,Cartão de débito,Recorrente,Móveis,750.0,0.05,4987.5
+961,2026-08-20,Tablet,7,Norte,Loja física,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.1,11340.0
+962,2026-07-08,Notebook,8,Norte,Site,Cartão de crédito,Recorrente,Eletrônicos,3500.0,0.0,28000.0
+963,2026-01-09,Impressora,6,Nordeste,Loja física,Boleto,Recorrente,Escritório,900.0,0.05,5130.0
+964,2026-09-29,Webcam,8,Sul,Site,Pix,Novo,Acessórios,250.0,0.0,2000.0
+965,2025-06-16,Notebook,2,Norte,Marketplace,Cartão de débito,Recorrente,Eletrônicos,3500.0,0.05,6650.0
+966,2026-04-04,Monitor,2,Sul,Site,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.15,2040.0
+967,2025-10-07,Cadeira,4,Sudeste,Loja física,Cartão de crédito,Recorrente,Móveis,750.0,0.2,2400.0
+968,2025-10-29,Mouse,4,Sul,Loja física,Boleto,Novo,Acessórios,80.0,0.05,304.0
+969,2026-06-15,Mesa,6,Centro-Oeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.05,3705.0
+970,2026-08-03,Impressora,4,Centro-Oeste,Site,Cartão de crédito,Recorrente,Escritório,900.0,0.15,3060.0
+971,2025-08-06,Mesa,2,Sul,Marketplace,Pix,Recorrente,Móveis,650.0,0.1,1170.0
+972,2025-04-12,Notebook,7,Centro-Oeste,Marketplace,Pix,Recorrente,Eletrônicos,3500.0,0.0,24500.0
+973,2026-07-08,Cadeira,8,Sudeste,Site,Cartão de débito,Novo,Móveis,750.0,0.05,5700.0
+974,2025-10-15,Cadeira,3,Nordeste,Loja física,Cartão de débito,Recorrente,Móveis,750.0,0.0,2250.0
+975,2025-06-16,Monitor,5,Centro-Oeste,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.05,5700.0
+976,2026-09-13,Headset,3,Centro-Oeste,Loja física,Boleto,Recorrente,Acessórios,180.0,0.05,513.0
+977,2025-02-05,Monitor,3,Sul,Loja física,Cartão de débito,Recorrente,Eletrônicos,1200.0,0.05,3420.0
+978,2025-12-19,Headset,2,Sudeste,Site,Cartão de crédito,Recorrente,Acessórios,180.0,0.0,360.0
+979,2025-03-14,Headset,3,Nordeste,Site,Boleto,Recorrente,Acessórios,180.0,0.0,540.0
+980,2025-12-19,Impressora,8,Sul,Site,Cartão de débito,Recorrente,Escritório,900.0,0.05,6840.0
+981,2025-03-11,Monitor,6,Sul,Loja física,Boleto,Novo,Eletrônicos,1200.0,0.1,6480.0
+982,2026-03-01,Mouse,1,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,80.0,0.1,72.0
+983,2026-07-15,Teclado,4,Nordeste,Loja física,Pix,Novo,Acessórios,150.0,0.0,600.0
+984,2026-06-01,Teclado,1,Sudeste,Loja física,Cartão de débito,Recorrente,Acessórios,150.0,0.15,127.5
+985,2026-03-04,Monitor,7,Nordeste,Marketplace,Pix,Recorrente,Eletrônicos,1200.0,0.15,7140.0
+986,2026-06-23,Monitor,8,Sudeste,Loja física,Boleto,Recorrente,Eletrônicos,1200.0,0.0,9600.0
+987,2025-06-09,Mesa,8,Sul,Site,Cartão de débito,Recorrente,Móveis,650.0,0.0,5200.0
+988,2025-05-29,Impressora,5,Sul,Loja física,Boleto,Recorrente,Escritório,900.0,0.1,4050.0
+989,2025-08-18,Monitor,8,Norte,Marketplace,Pix,Novo,Eletrônicos,1200.0,0.1,8640.0
+990,2026-07-16,Mesa,4,Centro-Oeste,Site,Cartão de débito,Recorrente,Móveis,650.0,0.2,2080.0
+991,2025-03-08,Headset,8,Sudeste,Loja física,Boleto,Novo,Acessórios,180.0,0.15,1224.0
+992,2026-01-16,Cadeira,3,Norte,Site,Pix,Novo,Móveis,750.0,0.05,2137.5
+993,2025-02-27,Cadeira,5,Centro-Oeste,Site,Boleto,Recorrente,Móveis,750.0,0.05,3562.5
+994,2025-09-16,Headset,4,Sudeste,Marketplace,Cartão de crédito,Novo,Acessórios,180.0,0.0,720.0
+995,2025-12-08,Webcam,6,Nordeste,Loja física,Pix,Novo,Acessórios,250.0,0.0,1500.0
+996,2025-05-10,Mesa,6,Centro-Oeste,Marketplace,Pix,Recorrente,Móveis,650.0,0.05,3705.0
+997,2025-06-21,Mesa,6,Sul,Marketplace,Pix,Recorrente,Móveis,650.0,0.05,3705.0
+998,2026-09-06,Headset,6,Norte,Marketplace,Cartão de débito,Recorrente,Acessórios,180.0,0.05,1026.0
+999,2025-07-28,Mouse,3,Centro-Oeste,Site,Cartão de débito,Recorrente,Acessórios,80.0,0.1,216.0
+1000,2025-12-20,Tablet,8,Centro-Oeste,Site,Cartão de débito,Recorrente,Eletrônicos,1800.0,0.0,14400.0

@@ -1,0 +1,35 @@
+
+RELATÓRIO EXECUTIVO — VENDAS FICTÍCIAS
+
+1. ESCOPO
+Foram analisados 1000 registros de venda,
+entre 01/01/2025 e
+30/09/2026.
+
+2. INDICADORES
+Faturamento total: R$ 4,305,643.00
+Quantidade total vendida: 4,581
+Número de registros de venda: 1000
+Ticket médio por registro: R$ 4,305.64
+
+3. DESTAQUES DA AMOSTRA
+Produto com maior faturamento: Notebook
+Faturamento do produto: R$ 1,731,100.00
+Região com maior faturamento: Norte
+Canal com maior faturamento: Loja física
+
+4. MODELO PREDITIVO
+A regressão linear apresentou MAE menor que o baseline no período de teste.
+MAE da regressão linear: R$ 33,440.96
+MAE do baseline: R$ 66,943.90
+
+5. RECOMENDAÇÕES
+- Investigar os produtos e canais de maior faturamento.
+- Analisar separadamente volume vendido, preço e descontos.
+- Repetir a avaliação com dados reais e mais histórico temporal.
+- Comparar modelos simples antes de adotar modelos mais complexos.
+- Não utilizar as previsões deste exercício para decisões financeiras reais.
+
+LIMITAÇÃO
+Os dados são sintéticos. Os padrões e as previsões são ilustrativos
+e não demonstram tendências reais de mercado.
